@@ -1,0 +1,201 @@
+distance_km,transport_mode,avg_temp_celsius,humidity_percent,delivery_time_hours,package_type,packaging_quality,freshness_status
+1080.3,Van,2.4,37.3,1.6,Fresh Produce,Good,Fresh
+725.3,Van,11.9,34.7,13.0,Pharmaceuticals,Good,Less Fresh
+1844.6,Refrigerated Truck,24.8,61.6,42.2,Pharmaceuticals,Good,Spoiled
+1139.0,Refrigerated Truck,19.3,54.2,51.7,Fresh Produce,Average,Spoiled
+2473.3,Refrigerated Truck,5.3,65.3,66.1,Pharmaceuticals,Good,Spoiled
+146.3,Motorbike,12.5,35.4,51.1,Frozen Food,Poor,Less Fresh
+894.0,Motorbike,5.8,55.9,48.7,Pharmaceuticals,Poor,Spoiled
+1209.9,Van,10.2,40.5,29.0,Fresh Produce,Good,Less Fresh
+1262.8,Air Freight,19.5,89.2,1.1,Pharmaceuticals,Good,Less Fresh
+796.7,Refrigerated Truck,19.3,63.7,9.5,Frozen Food,Excellent,Less Fresh
+1825.8,Refrigerated Truck,5.7,71.2,39.0,Frozen Food,Average,Spoiled
+2188.1,Van,23.1,49.5,48.9,Fresh Produce,Excellent,Spoiled
+2347.4,Van,14.8,35.7,30.6,Fresh Produce,Average,Spoiled
+2014.7,Van,9.5,88.6,52.9,Fresh Produce,Average,Spoiled
+2127.9,Motorbike,12.5,47.2,38.1,Meat/Seafood,Average,Spoiled
+1380.9,Motorbike,15.1,55.4,6.3,Meat/Seafood,Good,Less Fresh
+2066.5,Air Freight,14.0,69.0,14.6,Frozen Food,Average,Spoiled
+765.7,Van,12.2,31.5,60.6,Meat/Seafood,Good,Spoiled
+1002.2,Van,12.6,78.6,52.5,Meat/Seafood,Excellent,Spoiled
+799.1,Motorbike,4.4,62.2,64.5,Pharmaceuticals,Good,Spoiled
+1173.8,Air Freight,20.3,46.7,9.3,Meat/Seafood,Good,Spoiled
+721.1,Van,13.5,33.7,71.3,Pharmaceuticals,Excellent,Spoiled
+2404.4,Refrigerated Truck,3.3,39.7,15.9,Fresh Produce,Good,Less Fresh
+789.0,Air Freight,19.2,83.7,1.8,Pharmaceuticals,Good,Less Fresh
+254.1,Van,23.3,71.2,71.8,Pharmaceuticals,Average,Spoiled
+1321.8,Refrigerated Truck,23.7,45.0,21.0,Fresh Produce,Excellent,Spoiled
+152.2,Motorbike,9.2,33.9,48.4,Fresh Produce,Good,Less Fresh
+285.3,Motorbike,3.4,71.4,13.5,Frozen Food,Average,Fresh
+556.3,Refrigerated Truck,13.0,64.3,42.2,Frozen Food,Average,Less Fresh
+1166.2,Refrigerated Truck,2.8,54.3,65.2,Frozen Food,Excellent,Spoiled
+1088.8,Van,23.3,51.8,23.7,Frozen Food,Poor,Spoiled
+2001.2,Van,4.6,43.0,48.6,Pharmaceuticals,Excellent,Spoiled
+1851.3,Van,6.3,70.2,14.3,Pharmaceuticals,Average,Less Fresh
+1071.5,Motorbike,10.2,88.2,45.4,Frozen Food,Good,Spoiled
+840.9,Van,9.6,40.5,24.9,Meat/Seafood,Average,Less Fresh
+798.0,Van,19.9,65.8,16.0,Frozen Food,Good,Less Fresh
+1937.2,Van,11.4,55.5,23.2,Meat/Seafood,Excellent,Less Fresh
+139.7,Refrigerated Truck,4.3,56.8,13.7,Fresh Produce,Good,Fresh
+41.9,Van,6.7,45.2,65.0,Pharmaceuticals,Good,Spoiled
+1990.9,Motorbike,12.7,79.5,29.2,Pharmaceuticals,Poor,Less Fresh
+1198.1,Van,3.7,59.1,18.4,Meat/Seafood,Poor,Less Fresh
+335.9,Refrigerated Truck,15.3,62.6,32.8,Frozen Food,Average,Spoiled
+596.6,Van,14.1,48.3,23.8,Pharmaceuticals,Good,Less Fresh
+2331.9,Motorbike,17.9,40.9,53.9,Meat/Seafood,Average,Spoiled
+2150.2,Van,23.4,35.2,70.0,Fresh Produce,Average,Spoiled
+1777.4,Refrigerated Truck,22.8,72.8,32.1,Fresh Produce,Good,Spoiled
+1210.7,Van,23.7,41.8,62.1,Pharmaceuticals,Good,Spoiled
+1305.6,Refrigerated Truck,6.1,71.4,41.2,Frozen Food,Good,Spoiled
+2438.4,Air Freight,3.3,53.4,12.2,Meat/Seafood,Average,Less Fresh
+2414.8,Refrigerated Truck,7.6,54.9,50.0,Pharmaceuticals,Poor,Spoiled
+546.0,Refrigerated Truck,22.4,58.2,37.5,Fresh Produce,Excellent,Spoiled
+2029.7,Van,24.3,52.1,47.2,Frozen Food,Average,Spoiled
+501.1,Motorbike,21.5,36.0,64.2,Meat/Seafood,Excellent,Spoiled
+541.7,Air Freight,2.8,48.6,32.3,Pharmaceuticals,Excellent,Less Fresh
+1693.5,Van,23.7,69.8,65.0,Meat/Seafood,Good,Spoiled
+1018.5,Motorbike,10.6,69.9,54.3,Frozen Food,Average,Spoiled
+2329.5,Refrigerated Truck,0.2,47.2,35.7,Frozen Food,Excellent,Spoiled
+231.6,Van,11.1,57.6,43.8,Fresh Produce,Good,Less Fresh
+1283.7,Van,1.2,41.6,24.1,Frozen Food,Good,Less Fresh
+2297.1,Van,13.6,42.6,70.8,Pharmaceuticals,Average,Spoiled
+2261.2,Van,8.5,31.4,48.4,Meat/Seafood,Average,Spoiled
+399.8,Refrigerated Truck,11.8,83.8,4.1,Frozen Food,Average,Fresh
+922.9,Van,15.3,42.6,24.2,Frozen Food,Good,Less Fresh
+1551.6,Van,21.7,43.7,45.3,Pharmaceuticals,Good,Spoiled
+406.9,Van,16.5,46.8,5.0,Meat/Seafood,Average,Less Fresh
+2420.4,Refrigerated Truck,10.9,37.6,2.7,Meat/Seafood,Good,Less Fresh
+2287.7,Refrigerated Truck,20.5,68.4,33.0,Fresh Produce,Average,Spoiled
+425.7,Van,22.6,34.5,24.6,Fresh Produce,Good,Spoiled
+311.7,Refrigerated Truck,3.0,38.1,32.1,Meat/Seafood,Excellent,Less Fresh
+222.7,Motorbike,13.3,68.7,19.7,Pharmaceuticals,Average,Less Fresh
+2274.5,Air Freight,7.1,50.4,12.7,Pharmaceuticals,Average,Less Fresh
+492.1,Van,1.2,72.5,49.9,Fresh Produce,Average,Less Fresh
+1046.5,Refrigerated Truck,16.7,63.4,37.5,Frozen Food,Good,Spoiled
+1127.6,Motorbike,21.6,45.4,15.2,Pharmaceuticals,Good,Spoiled
+1501.5,Van,4.1,69.0,23.7,Frozen Food,Excellent,Less Fresh
+188.6,Van,20.3,37.0,43.0,Pharmaceuticals,Average,Spoiled
+574.6,Refrigerated Truck,21.3,62.2,6.1,Meat/Seafood,Excellent,Less Fresh
+2329.4,Van,22.9,56.2,11.5,Fresh Produce,Poor,Spoiled
+2271.9,Air Freight,6.6,46.1,6.2,Frozen Food,Good,Less Fresh
+1955.4,Van,22.6,66.2,58.7,Frozen Food,Poor,Spoiled
+58.3,Van,8.0,82.3,54.4,Meat/Seafood,Excellent,Spoiled
+824.2,Motorbike,13.8,89.9,54.5,Pharmaceuticals,Good,Spoiled
+1573.6,Refrigerated Truck,1.3,66.5,51.9,Frozen Food,Good,Spoiled
+695.2,Van,1.1,54.3,48.5,Pharmaceuticals,Excellent,Spoiled
+2274.9,Refrigerated Truck,18.0,43.5,34.9,Meat/Seafood,Average,Spoiled
+1588.4,Air Freight,11.1,45.4,46.6,Fresh Produce,Poor,Spoiled
+189.0,Air Freight,6.4,58.8,3.7,Frozen Food,Excellent,Fresh
+2273.4,Van,4.8,52.0,45.1,Pharmaceuticals,Average,Spoiled
+2394.8,Refrigerated Truck,16.7,84.8,56.2,Frozen Food,Average,Spoiled
+203.5,Refrigerated Truck,0.0,52.1,36.5,Pharmaceuticals,Good,Less Fresh
+1335.6,Motorbike,20.1,52.4,26.4,Pharmaceuticals,Good,Spoiled
+765.4,Refrigerated Truck,2.0,53.0,20.7,Pharmaceuticals,Poor,Less Fresh
+988.2,Motorbike,4.8,80.2,46.6,Meat/Seafood,Average,Spoiled
+457.3,Van,9.7,69.0,50.2,Fresh Produce,Poor,Less Fresh
+1449.4,Motorbike,12.1,66.9,62.8,Frozen Food,Good,Spoiled
+2395.4,Motorbike,8.9,50.0,25.3,Fresh Produce,Excellent,Spoiled
+1262.7,Van,8.0,79.1,55.7,Pharmaceuticals,Excellent,Spoiled
+216.5,Van,24.1,32.3,40.9,Pharmaceuticals,Good,Spoiled
+1553.8,Refrigerated Truck,16.0,82.2,63.7,Fresh Produce,Average,Spoiled
+857.2,Motorbike,0.6,60.8,38.5,Fresh Produce,Excellent,Less Fresh
+2141.3,Van,10.8,53.9,37.8,Frozen Food,Good,Spoiled
+1092.3,Motorbike,21.9,59.8,42.0,Pharmaceuticals,Average,Spoiled
+490.2,Van,7.5,70.0,54.2,Fresh Produce,Excellent,Spoiled
+485.9,Refrigerated Truck,2.4,30.8,69.5,Meat/Seafood,Good,Spoiled
+1924.2,Van,19.0,82.3,6.2,Pharmaceuticals,Good,Less Fresh
+671.3,Refrigerated Truck,15.2,56.8,4.8,Pharmaceuticals,Good,Less Fresh
+1920.4,Van,14.3,50.6,67.6,Frozen Food,Average,Spoiled
+522.7,Refrigerated Truck,1.3,38.3,38.6,Meat/Seafood,Average,Less Fresh
+811.0,Van,3.5,56.4,44.7,Frozen Food,Good,Spoiled
+1169.1,Van,15.6,59.8,35.3,Meat/Seafood,Average,Spoiled
+2358.6,Refrigerated Truck,5.2,54.2,7.6,Frozen Food,Good,Less Fresh
+2330.0,Motorbike,12.6,70.7,55.5,Meat/Seafood,Good,Spoiled
+525.1,Refrigerated Truck,13.6,55.3,54.1,Meat/Seafood,Good,Spoiled
+902.0,Refrigerated Truck,7.1,87.7,23.1,Meat/Seafood,Good,Less Fresh
+382.0,Van,23.7,66.0,22.7,Fresh Produce,Good,Spoiled
+1279.9,Motorbike,21.1,78.4,60.5,Pharmaceuticals,Excellent,Spoiled
+1156.9,Motorbike,18.1,36.6,6.1,Meat/Seafood,Good,Less Fresh
+2252.9,Air Freight,1.9,53.8,63.6,Fresh Produce,Average,Spoiled
+2325.7,Refrigerated Truck,2.7,50.2,19.2,Fresh Produce,Average,Spoiled
+965.1,Motorbike,12.3,64.2,43.1,Frozen Food,Average,Spoiled
+1234.4,Van,4.0,81.7,67.5,Pharmaceuticals,Average,Spoiled
+2241.6,Van,24.5,34.7,49.1,Pharmaceuticals,Average,Spoiled
+2018.7,Refrigerated Truck,4.0,34.4,30.4,Frozen Food,Average,Spoiled
+19.1,Motorbike,12.2,81.0,50.0,Pharmaceuticals,Good,Less Fresh
+806.9,Van,9.1,42.8,25.4,Frozen Food,Excellent,Less Fresh
+1060.2,Refrigerated Truck,16.0,70.1,20.7,Fresh Produce,Average,Less Fresh
+582.0,Motorbike,3.2,62.6,71.8,Fresh Produce,Good,Spoiled
+506.9,Van,10.8,80.0,54.3,Meat/Seafood,Good,Spoiled
+104.1,Air Freight,6.9,37.5,46.8,Frozen Food,Poor,Less Fresh
+1612.0,Refrigerated Truck,22.2,37.8,26.2,Fresh Produce,Excellent,Spoiled
+663.7,Van,1.0,63.4,4.5,Fresh Produce,Good,Less Fresh
+140.3,Motorbike,22.8,86.8,3.2,Frozen Food,Average,Less Fresh
+585.1,Motorbike,20.8,54.9,40.3,Fresh Produce,Good,Spoiled
+2006.8,Van,7.4,49.6,55.1,Pharmaceuticals,Average,Spoiled
+2130.2,Refrigerated Truck,19.7,66.4,39.2,Fresh Produce,Good,Spoiled
+1212.8,Van,0.8,85.8,60.7,Frozen Food,Poor,Spoiled
+1046.0,Refrigerated Truck,24.2,80.2,3.4,Pharmaceuticals,Excellent,Less Fresh
+2444.9,Air Freight,13.2,89.7,27.0,Pharmaceuticals,Good,Spoiled
+509.4,Van,7.6,31.4,17.8,Fresh Produce,Good,Less Fresh
+546.2,Motorbike,9.1,36.8,32.8,Meat/Seafood,Average,Less Fresh
+736.7,Van,1.7,66.6,6.1,Pharmaceuticals,Good,Less Fresh
+440.2,Air Freight,24.7,79.2,68.7,Frozen Food,Good,Spoiled
+954.6,Refrigerated Truck,1.0,47.1,16.9,Meat/Seafood,Good,Less Fresh
+2278.0,Motorbike,16.4,44.4,66.5,Meat/Seafood,Good,Spoiled
+1542.2,Refrigerated Truck,11.1,77.2,31.2,Pharmaceuticals,Good,Less Fresh
+1035.7,Van,23.7,33.4,71.0,Fresh Produce,Excellent,Spoiled
+2336.7,Air Freight,6.1,52.2,40.3,Meat/Seafood,Good,Less Fresh
+130.7,Motorbike,13.3,60.3,67.1,Fresh Produce,Excellent,Spoiled
+533.6,Van,12.1,63.6,1.4,Pharmaceuticals,Excellent,Fresh
+1419.1,Refrigerated Truck,17.6,73.7,54.1,Frozen Food,Good,Spoiled
+1542.7,Van,1.7,51.3,65.1,Meat/Seafood,Average,Spoiled
+108.5,Van,4.8,66.8,10.9,Frozen Food,Good,Less Fresh
+1013.6,Motorbike,5.4,65.1,7.8,Fresh Produce,Excellent,Fresh
+1626.4,Van,18.5,62.9,31.1,Fresh Produce,Average,Spoiled
+1748.2,Van,4.7,68.4,67.3,Frozen Food,Good,Spoiled
+1599.0,Air Freight,14.3,45.6,39.5,Pharmaceuticals,Excellent,Spoiled
+808.2,Van,5.4,35.1,38.4,Pharmaceuticals,Average,Less Fresh
+242.9,Van,21.5,37.2,11.0,Meat/Seafood,Good,Spoiled
+1073.5,Refrigerated Truck,23.6,43.5,1.1,Meat/Seafood,Average,Less Fresh
+330.6,Motorbike,13.0,60.0,58.5,Pharmaceuticals,Average,Spoiled
+2369.6,Van,8.8,80.4,7.2,Pharmaceuticals,Good,Less Fresh
+1193.2,Refrigerated Truck,5.9,72.1,46.0,Frozen Food,Poor,Spoiled
+800.0,Refrigerated Truck,1.2,77.3,65.9,Fresh Produce,Average,Spoiled
+1918.1,Refrigerated Truck,6.7,51.1,15.8,Fresh Produce,Excellent,Less Fresh
+1249.9,Refrigerated Truck,16.4,54.3,48.2,Meat/Seafood,Average,Spoiled
+782.0,Motorbike,13.3,53.6,6.6,Pharmaceuticals,Excellent,Less Fresh
+2031.8,Air Freight,23.6,41.5,43.9,Frozen Food,Excellent,Spoiled
+2169.2,Motorbike,9.9,33.7,12.6,Meat/Seafood,Average,Less Fresh
+1685.8,Refrigerated Truck,17.3,65.5,53.3,Frozen Food,Poor,Spoiled
+126.9,Van,12.2,89.4,22.4,Pharmaceuticals,Good,Less Fresh
+1420.1,Air Freight,12.8,40.0,33.9,Pharmaceuticals,Good,Spoiled
+1910.6,Refrigerated Truck,6.7,32.8,43.6,Pharmaceuticals,Average,Spoiled
+349.9,Refrigerated Truck,11.4,76.8,13.2,Fresh Produce,Good,Fresh
+579.4,Van,11.8,45.2,53.7,Pharmaceuticals,Poor,Spoiled
+2207.4,Van,17.7,79.8,22.5,Meat/Seafood,Excellent,Spoiled
+60.1,Refrigerated Truck,23.5,72.2,48.0,Fresh Produce,Average,Spoiled
+1884.3,Refrigerated Truck,8.2,86.7,12.2,Frozen Food,Average,Less Fresh
+1189.7,Motorbike,1.1,54.5,49.9,Meat/Seafood,Average,Spoiled
+1122.5,Air Freight,12.4,69.7,10.1,Meat/Seafood,Excellent,Fresh
+27.7,Refrigerated Truck,13.6,57.9,31.2,Frozen Food,Good,Less Fresh
+2050.3,Van,4.2,67.8,18.6,Fresh Produce,Excellent,Less Fresh
+906.0,Refrigerated Truck,19.0,57.0,54.1,Meat/Seafood,Average,Spoiled
+1356.5,Van,24.6,41.3,19.6,Meat/Seafood,Average,Spoiled
+1696.5,Van,23.6,60.5,63.6,Meat/Seafood,Average,Spoiled
+1759.5,Van,4.9,61.7,64.3,Fresh Produce,Good,Spoiled
+2390.4,Van,21.9,78.6,14.9,Fresh Produce,Good,Spoiled
+1333.0,Refrigerated Truck,17.6,74.1,44.6,Fresh Produce,Good,Spoiled
+1005.3,Van,11.3,69.8,7.2,Meat/Seafood,Average,Less Fresh
+2384.7,Refrigerated Truck,13.5,36.8,28.8,Pharmaceuticals,Excellent,Spoiled
+1608.9,Refrigerated Truck,21.2,73.2,51.6,Frozen Food,Average,Spoiled
+752.4,Refrigerated Truck,12.0,60.0,47.8,Pharmaceuticals,Excellent,Spoiled
+324.9,Motorbike,9.3,83.6,45.4,Fresh Produce,Poor,Spoiled
+2108.0,Refrigerated Truck,12.3,85.2,21.1,Meat/Seafood,Good,Less Fresh
+911.8,Van,14.5,33.3,27.8,Meat/Seafood,Average,Less Fresh
+1654.6,Van,4.7,79.2,8.3,Pharmaceuticals,Good,Less Fresh
+1182.3,Van,22.5,32.3,52.1,Pharmaceuticals,Good,Spoiled
+505.3,Van,16.9,52.0,36.8,Frozen Food,Good,Spoiled
+1508.2,Refrigerated Truck,15.8,62.5,51.3,Meat/Seafood,Good,Spoiled
+161.1,Van,2.5,38.9,18.7,Pharmaceuticals,Good,Fresh
+1039.2,Refrigerated Truck,15.1,74.8,24.0,Frozen Food,Good,Less Fresh
