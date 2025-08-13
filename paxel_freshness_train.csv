@@ -1,0 +1,801 @@
+package_id,origin_city,destination_city,distance_km,transport_mode,avg_temp_celsius,humidity_percent,delivery_time_hours,package_type,packaging_quality,freshness_status
+PAX100000,Medan,Bandung,38.9,Motorbike,10.9,63.1,49.0,Meat/Seafood,Good,Spoiled
+PAX100001,Makassar,Bandung,190.4,Refrigerated Truck,14.5,56.3,29.1,Meat/Seafood,Good,Less Fresh
+PAX100002,Bandung,Medan,987.3,Van,12.9,80.4,10.4,Frozen Food,Good,Less Fresh
+PAX100003,Makassar,Makassar,1205.0,Van,19.0,39.6,12.3,Frozen Food,Excellent,Less Fresh
+PAX100004,Makassar,Surabaya,1504.1,Motorbike,7.1,31.5,68.4,Pharmaceuticals,Poor,Spoiled
+PAX100005,Surabaya,Surabaya,736.2,Van,8.8,56.9,63.5,Frozen Food,Good,Spoiled
+PAX100006,Bandung,Bandung,1740.5,Refrigerated Truck,22.4,44.2,65.4,Fresh Produce,Excellent,Spoiled
+PAX100007,Bandung,Bandung,2151.7,Van,23.7,33.0,71.4,Frozen Food,Average,Spoiled
+PAX100008,Bandung,Jakarta,1951.8,Van,22.3,73.5,15.8,Frozen Food,Good,Spoiled
+PAX100009,Makassar,Makassar,108.7,Refrigerated Truck,10.5,36.7,26.2,Pharmaceuticals,Average,Less Fresh
+PAX100010,Medan,Medan,1206.5,Refrigerated Truck,19.5,66.5,48.5,Fresh Produce,Excellent,Spoiled
+PAX100011,Bandung,Surabaya,271.3,Refrigerated Truck,11.9,46.9,35.3,Frozen Food,Poor,Spoiled
+PAX100012,Makassar,Jakarta,612.7,Van,12.4,40.4,30.7,Fresh Produce,Good,Less Fresh
+PAX100013,Surabaya,Jakarta,2466.8,Van,5.1,52.8,26.4,Fresh Produce,Average,Spoiled
+PAX100014,Medan,Surabaya,364.8,Air Freight,14.8,78.1,43.2,Fresh Produce,Good,Spoiled
+PAX100015,Surabaya,Medan,1252.2,Refrigerated Truck,4.7,53.5,41.9,Meat/Seafood,Average,Spoiled
+PAX100016,Medan,Jakarta,1549.2,Motorbike,8.3,75.0,12.5,Meat/Seafood,Average,Less Fresh
+PAX100017,Makassar,Jakarta,1759.1,Motorbike,21.4,37.5,34.5,Meat/Seafood,Good,Spoiled
+PAX100018,Jakarta,Makassar,1403.5,Van,5.2,76.4,40.3,Meat/Seafood,Excellent,Less Fresh
+PAX100019,Medan,Medan,34.3,Air Freight,1.8,44.2,41.5,Pharmaceuticals,Average,Less Fresh
+PAX100020,Surabaya,Jakarta,822.9,Van,1.7,70.6,15.9,Frozen Food,Average,Less Fresh
+PAX100021,Makassar,Medan,1299.1,Van,23.5,63.9,53.7,Meat/Seafood,Good,Spoiled
+PAX100022,Medan,Surabaya,228.8,Motorbike,12.7,85.7,2.8,Pharmaceuticals,Good,Less Fresh
+PAX100023,Jakarta,Bandung,883.1,Refrigerated Truck,10.2,53.2,26.2,Frozen Food,Excellent,Less Fresh
+PAX100024,Jakarta,Jakarta,92.7,Refrigerated Truck,20.3,34.0,56.4,Meat/Seafood,Average,Spoiled
+PAX100025,Bandung,Makassar,205.7,Van,20.9,31.1,41.0,Frozen Food,Good,Spoiled
+PAX100026,Bandung,Surabaya,998.3,Refrigerated Truck,8.3,79.6,19.5,Meat/Seafood,Average,Less Fresh
+PAX100027,Surabaya,Medan,340.5,Air Freight,17.3,61.5,50.3,Pharmaceuticals,Average,Spoiled
+PAX100028,Medan,Surabaya,1423.2,Van,19.3,76.5,41.3,Fresh Produce,Good,Spoiled
+PAX100029,Medan,Jakarta,1726.8,Van,16.4,44.1,57.5,Fresh Produce,Good,Spoiled
+PAX100030,Bandung,Medan,2003.5,Van,3.8,50.7,53.2,Frozen Food,Good,Spoiled
+PAX100031,Medan,Bandung,508.4,Refrigerated Truck,21.9,31.8,44.3,Pharmaceuticals,Average,Spoiled
+PAX100032,Medan,Surabaya,427.0,Van,13.5,87.7,35.7,Fresh Produce,Good,Spoiled
+PAX100033,Jakarta,Jakarta,270.4,Refrigerated Truck,7.1,70.1,10.5,Meat/Seafood,Good,Fresh
+PAX100034,Bandung,Makassar,1594.7,Refrigerated Truck,10.6,86.0,19.6,Fresh Produce,Excellent,Less Fresh
+PAX100035,Makassar,Medan,1769.1,Van,0.9,45.9,30.8,Frozen Food,Average,Spoiled
+PAX100036,Bandung,Surabaya,88.6,Air Freight,3.2,66.7,43.6,Frozen Food,Average,Less Fresh
+PAX100037,Makassar,Surabaya,2341.2,Van,19.1,70.7,37.5,Pharmaceuticals,Average,Spoiled
+PAX100038,Jakarta,Bandung,139.4,Motorbike,0.0,49.1,21.5,Frozen Food,Good,Fresh
+PAX100039,Surabaya,Bandung,1357.8,Refrigerated Truck,10.4,80.9,1.5,Fresh Produce,Average,Less Fresh
+PAX100040,Medan,Makassar,1775.6,Refrigerated Truck,13.1,86.8,36.2,Fresh Produce,Excellent,Spoiled
+PAX100041,Jakarta,Makassar,2178.7,Van,1.4,83.1,21.3,Fresh Produce,Average,Spoiled
+PAX100042,Medan,Jakarta,1788.1,Refrigerated Truck,24.3,74.3,53.2,Fresh Produce,Excellent,Spoiled
+PAX100043,Surabaya,Jakarta,2006.3,Air Freight,5.7,46.6,2.7,Pharmaceuticals,Average,Less Fresh
+PAX100044,Surabaya,Makassar,855.2,Van,7.6,46.9,42.5,Meat/Seafood,Good,Less Fresh
+PAX100045,Jakarta,Makassar,2038.9,Air Freight,7.6,87.8,67.8,Meat/Seafood,Excellent,Spoiled
+PAX100046,Surabaya,Medan,209.5,Motorbike,5.8,30.6,13.4,Pharmaceuticals,Average,Fresh
+PAX100047,Makassar,Bandung,2238.1,Van,0.0,73.0,34.5,Frozen Food,Excellent,Spoiled
+PAX100048,Surabaya,Jakarta,1373.5,Motorbike,18.2,72.4,7.5,Meat/Seafood,Good,Less Fresh
+PAX100049,Medan,Bandung,2045.1,Refrigerated Truck,24.2,67.4,45.4,Frozen Food,Excellent,Spoiled
+PAX100050,Medan,Bandung,1136.3,Refrigerated Truck,5.6,89.4,40.1,Meat/Seafood,Good,Spoiled
+PAX100051,Medan,Makassar,1612.5,Motorbike,16.6,48.7,29.9,Frozen Food,Average,Spoiled
+PAX100052,Medan,Medan,1320.7,Van,18.5,50.4,38.0,Pharmaceuticals,Average,Spoiled
+PAX100053,Makassar,Surabaya,1831.7,Refrigerated Truck,21.2,34.7,64.7,Fresh Produce,Average,Spoiled
+PAX100054,Bandung,Medan,213.3,Motorbike,10.6,56.6,14.9,Frozen Food,Poor,Less Fresh
+PAX100055,Jakarta,Medan,160.3,Refrigerated Truck,7.6,45.7,2.6,Fresh Produce,Average,Fresh
+PAX100056,Medan,Bandung,625.3,Refrigerated Truck,8.1,50.6,62.2,Frozen Food,Average,Spoiled
+PAX100057,Surabaya,Medan,407.3,Van,17.8,80.1,42.0,Frozen Food,Good,Spoiled
+PAX100058,Medan,Jakarta,2180.7,Air Freight,20.4,86.1,64.2,Frozen Food,Good,Spoiled
+PAX100059,Surabaya,Bandung,555.8,Van,4.5,41.1,43.4,Frozen Food,Average,Spoiled
+PAX100060,Surabaya,Jakarta,2439.9,Air Freight,9.3,52.4,58.5,Frozen Food,Average,Spoiled
+PAX100061,Medan,Surabaya,848.9,Refrigerated Truck,22.5,85.7,31.5,Fresh Produce,Good,Spoiled
+PAX100062,Makassar,Bandung,463.5,Refrigerated Truck,20.2,33.7,54.2,Frozen Food,Average,Spoiled
+PAX100063,Surabaya,Surabaya,1976.3,Motorbike,24.6,35.5,65.8,Fresh Produce,Poor,Spoiled
+PAX100064,Surabaya,Bandung,1650.2,Refrigerated Truck,18.9,39.8,41.6,Pharmaceuticals,Average,Spoiled
+PAX100065,Medan,Makassar,1250.5,Van,9.8,65.7,13.8,Meat/Seafood,Excellent,Less Fresh
+PAX100066,Surabaya,Medan,1392.9,Motorbike,14.8,39.0,20.1,Frozen Food,Excellent,Less Fresh
+PAX100067,Surabaya,Makassar,1800.8,Motorbike,16.5,88.1,15.1,Meat/Seafood,Average,Spoiled
+PAX100068,Medan,Surabaya,578.9,Van,2.0,56.8,18.5,Fresh Produce,Good,Less Fresh
+PAX100069,Medan,Medan,2490.9,Van,13.6,60.1,22.8,Pharmaceuticals,Good,Spoiled
+PAX100070,Jakarta,Bandung,2437.2,Refrigerated Truck,17.7,44.8,40.4,Pharmaceuticals,Good,Spoiled
+PAX100071,Makassar,Medan,1629.3,Refrigerated Truck,4.2,58.3,42.7,Pharmaceuticals,Good,Spoiled
+PAX100072,Makassar,Jakarta,506.9,Motorbike,19.5,69.7,31.3,Meat/Seafood,Good,Spoiled
+PAX100073,Surabaya,Medan,1703.8,Refrigerated Truck,14.6,75.1,44.7,Fresh Produce,Average,Spoiled
+PAX100074,Makassar,Jakarta,189.8,Motorbike,23.8,75.2,6.8,Frozen Food,Poor,Spoiled
+PAX100075,Surabaya,Medan,86.3,Refrigerated Truck,1.1,64.7,7.2,Frozen Food,Good,Fresh
+PAX100076,Jakarta,Jakarta,651.6,Refrigerated Truck,6.6,84.3,13.2,Fresh Produce,Excellent,Fresh
+PAX100077,Medan,Surabaya,1161.9,Van,15.0,79.0,37.8,Meat/Seafood,Good,Spoiled
+PAX100078,Medan,Makassar,2172.0,Refrigerated Truck,7.4,75.4,16.2,Frozen Food,Excellent,Less Fresh
+PAX100079,Medan,Bandung,1820.7,Van,17.9,33.3,21.1,Fresh Produce,Excellent,Spoiled
+PAX100080,Makassar,Medan,1859.3,Van,19.0,30.4,29.4,Frozen Food,Average,Spoiled
+PAX100081,Jakarta,Makassar,1069.5,Refrigerated Truck,2.6,42.7,58.6,Pharmaceuticals,Good,Spoiled
+PAX100082,Makassar,Bandung,871.4,Van,12.8,69.8,2.0,Frozen Food,Good,Fresh
+PAX100083,Makassar,Bandung,933.9,Van,12.7,54.7,47.1,Meat/Seafood,Excellent,Spoiled
+PAX100084,Jakarta,Jakarta,2469.2,Van,9.2,54.1,48.5,Fresh Produce,Excellent,Spoiled
+PAX100085,Jakarta,Surabaya,109.9,Refrigerated Truck,23.3,83.1,57.7,Meat/Seafood,Good,Spoiled
+PAX100086,Jakarta,Surabaya,2168.9,Van,20.7,83.7,67.2,Fresh Produce,Average,Spoiled
+PAX100087,Jakarta,Makassar,1450.9,Motorbike,17.4,84.6,2.4,Pharmaceuticals,Good,Less Fresh
+PAX100088,Medan,Surabaya,1102.2,Refrigerated Truck,17.9,48.8,11.9,Fresh Produce,Average,Spoiled
+PAX100089,Bandung,Medan,1815.9,Refrigerated Truck,11.5,71.5,63.9,Frozen Food,Good,Spoiled
+PAX100090,Bandung,Surabaya,1221.8,Motorbike,23.0,46.3,33.6,Frozen Food,Excellent,Spoiled
+PAX100091,Jakarta,Makassar,2184.8,Van,17.4,41.4,41.1,Pharmaceuticals,Average,Spoiled
+PAX100092,Bandung,Surabaya,2252.7,Motorbike,18.2,41.1,48.1,Fresh Produce,Good,Spoiled
+PAX100093,Bandung,Medan,1060.1,Van,21.5,50.5,49.2,Pharmaceuticals,Good,Spoiled
+PAX100094,Jakarta,Jakarta,699.3,Van,6.9,55.8,67.2,Frozen Food,Good,Spoiled
+PAX100095,Bandung,Makassar,1485.0,Refrigerated Truck,20.2,79.9,71.8,Meat/Seafood,Average,Spoiled
+PAX100096,Makassar,Jakarta,2281.8,Refrigerated Truck,4.9,37.2,52.1,Pharmaceuticals,Good,Spoiled
+PAX100097,Surabaya,Jakarta,534.5,Refrigerated Truck,8.6,74.1,21.4,Meat/Seafood,Excellent,Less Fresh
+PAX100098,Surabaya,Jakarta,1561.2,Van,8.4,61.9,63.5,Meat/Seafood,Excellent,Spoiled
+PAX100099,Jakarta,Bandung,1582.6,Refrigerated Truck,24.5,47.3,4.5,Fresh Produce,Average,Spoiled
+PAX100100,Medan,Bandung,1835.5,Van,21.4,59.6,17.4,Pharmaceuticals,Excellent,Spoiled
+PAX100101,Jakarta,Jakarta,337.6,Air Freight,17.5,48.0,64.7,Meat/Seafood,Good,Spoiled
+PAX100102,Medan,Makassar,1792.4,Refrigerated Truck,18.2,65.8,19.2,Meat/Seafood,Average,Spoiled
+PAX100103,Surabaya,Medan,2273.5,Motorbike,14.1,56.0,16.7,Fresh Produce,Poor,Spoiled
+PAX100104,Jakarta,Medan,457.4,Refrigerated Truck,23.7,39.9,10.8,Fresh Produce,Average,Spoiled
+PAX100105,Makassar,Surabaya,601.5,Van,12.4,37.0,62.0,Frozen Food,Excellent,Spoiled
+PAX100106,Bandung,Makassar,2428.8,Refrigerated Truck,9.5,62.8,36.5,Meat/Seafood,Good,Spoiled
+PAX100107,Medan,Bandung,460.6,Motorbike,4.1,84.1,48.9,Frozen Food,Good,Spoiled
+PAX100108,Bandung,Jakarta,2137.4,Motorbike,19.7,50.6,18.0,Meat/Seafood,Average,Spoiled
+PAX100109,Bandung,Surabaya,1235.8,Refrigerated Truck,18.4,74.0,54.8,Frozen Food,Good,Spoiled
+PAX100110,Jakarta,Medan,625.6,Van,9.6,69.5,55.0,Fresh Produce,Poor,Spoiled
+PAX100111,Bandung,Bandung,2178.2,Refrigerated Truck,0.6,85.9,23.2,Pharmaceuticals,Average,Spoiled
+PAX100112,Makassar,Bandung,1118.8,Van,21.0,79.3,30.2,Fresh Produce,Good,Spoiled
+PAX100113,Bandung,Jakarta,1291.9,Refrigerated Truck,0.3,64.0,15.9,Frozen Food,Average,Less Fresh
+PAX100114,Jakarta,Medan,904.5,Refrigerated Truck,17.6,69.4,70.3,Frozen Food,Excellent,Spoiled
+PAX100115,Makassar,Makassar,1486.4,Van,24.3,83.9,46.8,Pharmaceuticals,Average,Spoiled
+PAX100116,Surabaya,Bandung,417.2,Van,10.9,54.0,67.4,Meat/Seafood,Good,Spoiled
+PAX100117,Bandung,Jakarta,983.8,Van,5.9,49.6,22.5,Frozen Food,Good,Less Fresh
+PAX100118,Jakarta,Makassar,2423.8,Motorbike,17.6,30.6,56.5,Frozen Food,Good,Spoiled
+PAX100119,Surabaya,Medan,652.8,Van,20.4,79.6,55.4,Frozen Food,Average,Spoiled
+PAX100120,Surabaya,Bandung,1645.3,Refrigerated Truck,13.7,78.1,50.1,Pharmaceuticals,Poor,Spoiled
+PAX100121,Medan,Makassar,819.7,Air Freight,24.2,36.3,69.6,Fresh Produce,Excellent,Spoiled
+PAX100122,Makassar,Makassar,1935.9,Refrigerated Truck,1.3,64.6,28.9,Frozen Food,Average,Spoiled
+PAX100123,Bandung,Makassar,335.9,Refrigerated Truck,12.6,57.8,10.3,Pharmaceuticals,Excellent,Fresh
+PAX100124,Jakarta,Bandung,2424.9,Refrigerated Truck,18.0,37.1,48.7,Frozen Food,Excellent,Spoiled
+PAX100125,Medan,Bandung,1139.9,Refrigerated Truck,21.6,88.8,52.8,Meat/Seafood,Average,Spoiled
+PAX100126,Makassar,Surabaya,597.8,Van,4.5,42.9,41.8,Pharmaceuticals,Average,Less Fresh
+PAX100127,Medan,Medan,193.0,Air Freight,20.0,34.0,15.7,Frozen Food,Good,Less Fresh
+PAX100128,Makassar,Jakarta,432.7,Refrigerated Truck,13.8,65.7,36.8,Pharmaceuticals,Excellent,Less Fresh
+PAX100129,Makassar,Makassar,1304.2,Van,9.9,74.3,23.2,Frozen Food,Excellent,Less Fresh
+PAX100130,Bandung,Surabaya,849.1,Motorbike,3.3,31.9,31.4,Fresh Produce,Good,Less Fresh
+PAX100131,Makassar,Jakarta,2073.9,Van,21.6,69.5,46.8,Frozen Food,Good,Spoiled
+PAX100132,Medan,Surabaya,1082.9,Van,3.9,61.9,53.9,Pharmaceuticals,Average,Spoiled
+PAX100133,Makassar,Bandung,629.3,Refrigerated Truck,7.7,36.2,17.5,Meat/Seafood,Excellent,Fresh
+PAX100134,Bandung,Makassar,1546.7,Van,7.3,40.4,29.8,Meat/Seafood,Excellent,Less Fresh
+PAX100135,Bandung,Jakarta,1769.9,Van,21.8,64.1,20.1,Meat/Seafood,Average,Spoiled
+PAX100136,Medan,Jakarta,425.9,Air Freight,16.8,47.8,15.1,Frozen Food,Average,Less Fresh
+PAX100137,Surabaya,Jakarta,427.4,Motorbike,19.9,86.3,56.6,Fresh Produce,Average,Spoiled
+PAX100138,Surabaya,Jakarta,101.3,Van,6.3,79.1,65.6,Frozen Food,Average,Spoiled
+PAX100139,Makassar,Jakarta,1843.6,Motorbike,15.6,89.0,27.3,Meat/Seafood,Excellent,Spoiled
+PAX100140,Jakarta,Surabaya,1662.9,Refrigerated Truck,14.3,45.6,54.3,Pharmaceuticals,Average,Spoiled
+PAX100141,Makassar,Makassar,1191.8,Air Freight,20.8,88.2,64.7,Meat/Seafood,Poor,Spoiled
+PAX100142,Medan,Bandung,2112.0,Van,22.7,55.9,61.1,Pharmaceuticals,Average,Spoiled
+PAX100143,Medan,Bandung,2016.1,Refrigerated Truck,0.3,50.9,14.0,Fresh Produce,Excellent,Less Fresh
+PAX100144,Medan,Bandung,1467.5,Van,16.9,33.0,68.9,Pharmaceuticals,Good,Spoiled
+PAX100145,Medan,Bandung,2172.0,Air Freight,1.3,33.2,27.7,Frozen Food,Good,Less Fresh
+PAX100146,Medan,Surabaya,522.5,Refrigerated Truck,13.7,71.5,25.1,Frozen Food,Average,Less Fresh
+PAX100147,Bandung,Medan,288.7,Refrigerated Truck,7.2,57.5,5.4,Frozen Food,Excellent,Fresh
+PAX100148,Surabaya,Makassar,681.7,Motorbike,7.7,43.6,35.5,Pharmaceuticals,Excellent,Less Fresh
+PAX100149,Medan,Jakarta,152.1,Air Freight,8.8,66.8,8.7,Frozen Food,Average,Fresh
+PAX100150,Jakarta,Medan,1332.6,Refrigerated Truck,15.5,45.2,18.6,Frozen Food,Poor,Spoiled
+PAX100151,Jakarta,Bandung,2342.1,Van,8.4,64.7,23.5,Frozen Food,Poor,Spoiled
+PAX100152,Jakarta,Medan,108.0,Refrigerated Truck,18.3,51.6,58.4,Fresh Produce,Average,Spoiled
+PAX100153,Jakarta,Makassar,314.1,Van,10.1,79.4,63.2,Pharmaceuticals,Good,Spoiled
+PAX100154,Bandung,Jakarta,1136.0,Refrigerated Truck,1.7,79.2,22.5,Pharmaceuticals,Excellent,Less Fresh
+PAX100155,Jakarta,Jakarta,2335.3,Motorbike,19.6,58.6,62.0,Meat/Seafood,Good,Spoiled
+PAX100156,Medan,Makassar,797.2,Refrigerated Truck,7.1,51.0,61.9,Pharmaceuticals,Excellent,Spoiled
+PAX100157,Makassar,Makassar,1273.0,Van,10.8,51.8,55.3,Fresh Produce,Good,Spoiled
+PAX100158,Jakarta,Bandung,113.5,Motorbike,17.1,78.3,11.4,Pharmaceuticals,Good,Less Fresh
+PAX100159,Bandung,Jakarta,379.4,Van,8.3,49.7,50.0,Fresh Produce,Good,Less Fresh
+PAX100160,Bandung,Medan,2466.7,Motorbike,1.4,42.5,68.1,Fresh Produce,Average,Spoiled
+PAX100161,Jakarta,Surabaya,2413.1,Van,9.3,35.1,49.5,Pharmaceuticals,Average,Spoiled
+PAX100162,Makassar,Surabaya,22.3,Van,23.6,58.0,24.5,Meat/Seafood,Good,Spoiled
+PAX100163,Jakarta,Makassar,2380.0,Van,16.0,58.9,36.5,Frozen Food,Poor,Spoiled
+PAX100164,Bandung,Bandung,1601.4,Van,16.8,80.5,46.8,Frozen Food,Average,Spoiled
+PAX100165,Surabaya,Surabaya,2171.1,Van,15.8,43.3,37.3,Pharmaceuticals,Good,Spoiled
+PAX100166,Medan,Jakarta,1142.3,Refrigerated Truck,5.0,52.9,9.5,Pharmaceuticals,Excellent,Fresh
+PAX100167,Bandung,Makassar,1293.8,Motorbike,10.5,78.5,23.2,Fresh Produce,Good,Less Fresh
+PAX100168,Jakarta,Medan,1227.2,Air Freight,18.8,79.4,58.0,Pharmaceuticals,Excellent,Spoiled
+PAX100169,Medan,Makassar,1670.5,Refrigerated Truck,2.5,53.1,62.2,Fresh Produce,Good,Spoiled
+PAX100170,Jakarta,Medan,357.7,Refrigerated Truck,6.9,57.5,10.7,Meat/Seafood,Good,Fresh
+PAX100171,Jakarta,Makassar,84.6,Van,6.9,48.2,68.6,Pharmaceuticals,Good,Spoiled
+PAX100172,Surabaya,Makassar,776.7,Refrigerated Truck,10.8,86.0,24.3,Frozen Food,Excellent,Less Fresh
+PAX100173,Medan,Makassar,1764.7,Motorbike,24.5,37.1,48.0,Frozen Food,Good,Spoiled
+PAX100174,Medan,Medan,512.6,Motorbike,1.7,86.0,54.4,Pharmaceuticals,Good,Spoiled
+PAX100175,Surabaya,Medan,1686.8,Van,13.0,71.0,58.6,Fresh Produce,Good,Spoiled
+PAX100176,Bandung,Makassar,2425.1,Refrigerated Truck,4.5,61.9,68.1,Frozen Food,Good,Spoiled
+PAX100177,Jakarta,Surabaya,243.8,Motorbike,24.3,32.0,23.2,Fresh Produce,Average,Spoiled
+PAX100178,Makassar,Bandung,1684.8,Van,2.8,58.5,62.0,Pharmaceuticals,Poor,Spoiled
+PAX100179,Jakarta,Bandung,1114.9,Air Freight,10.1,54.5,10.3,Pharmaceuticals,Poor,Less Fresh
+PAX100180,Jakarta,Bandung,2171.7,Refrigerated Truck,18.4,39.7,51.1,Frozen Food,Excellent,Spoiled
+PAX100181,Bandung,Medan,451.1,Van,17.6,69.4,53.7,Pharmaceuticals,Average,Spoiled
+PAX100182,Jakarta,Medan,1734.6,Motorbike,10.6,88.3,49.1,Meat/Seafood,Average,Spoiled
+PAX100183,Surabaya,Surabaya,2096.9,Refrigerated Truck,8.7,63.7,18.9,Meat/Seafood,Good,Less Fresh
+PAX100184,Surabaya,Bandung,2362.1,Van,9.9,72.9,63.0,Frozen Food,Average,Spoiled
+PAX100185,Medan,Bandung,1711.3,Motorbike,6.6,34.1,13.0,Meat/Seafood,Good,Less Fresh
+PAX100186,Makassar,Makassar,1248.0,Motorbike,5.1,55.1,4.8,Fresh Produce,Average,Less Fresh
+PAX100187,Jakarta,Medan,1548.4,Air Freight,12.1,37.0,51.9,Frozen Food,Excellent,Spoiled
+PAX100188,Jakarta,Bandung,2173.6,Refrigerated Truck,6.7,66.8,34.8,Frozen Food,Excellent,Less Fresh
+PAX100189,Bandung,Surabaya,1430.8,Refrigerated Truck,7.2,86.3,61.3,Fresh Produce,Excellent,Spoiled
+PAX100190,Surabaya,Surabaya,85.7,Refrigerated Truck,16.4,69.7,28.2,Meat/Seafood,Good,Less Fresh
+PAX100191,Makassar,Bandung,2328.1,Van,24.2,34.6,12.9,Meat/Seafood,Good,Spoiled
+PAX100192,Medan,Medan,1726.9,Van,15.1,51.3,60.4,Meat/Seafood,Average,Spoiled
+PAX100193,Surabaya,Surabaya,1694.5,Van,1.9,63.0,40.0,Frozen Food,Poor,Spoiled
+PAX100194,Medan,Makassar,547.0,Van,1.9,54.2,14.4,Frozen Food,Poor,Less Fresh
+PAX100195,Bandung,Surabaya,1650.6,Van,23.8,80.0,52.1,Meat/Seafood,Good,Spoiled
+PAX100196,Bandung,Jakarta,990.7,Refrigerated Truck,7.4,78.9,37.3,Pharmaceuticals,Good,Less Fresh
+PAX100197,Jakarta,Jakarta,1631.6,Refrigerated Truck,2.3,66.7,43.9,Meat/Seafood,Good,Spoiled
+PAX100198,Makassar,Medan,275.4,Refrigerated Truck,15.0,52.4,33.7,Fresh Produce,Poor,Spoiled
+PAX100199,Medan,Bandung,1648.0,Van,15.6,45.3,59.8,Frozen Food,Good,Spoiled
+PAX100200,Surabaya,Medan,2498.5,Refrigerated Truck,16.2,36.4,59.9,Fresh Produce,Good,Spoiled
+PAX100201,Bandung,Medan,130.0,Refrigerated Truck,6.7,51.3,51.4,Fresh Produce,Good,Less Fresh
+PAX100202,Jakarta,Medan,2443.2,Van,0.4,54.8,8.5,Frozen Food,Good,Less Fresh
+PAX100203,Jakarta,Medan,1023.2,Refrigerated Truck,24.1,70.5,60.6,Pharmaceuticals,Average,Spoiled
+PAX100204,Medan,Makassar,2178.2,Van,6.3,69.5,48.6,Meat/Seafood,Excellent,Spoiled
+PAX100205,Bandung,Makassar,1958.1,Van,16.9,34.2,50.5,Fresh Produce,Good,Spoiled
+PAX100206,Makassar,Surabaya,1421.9,Motorbike,17.7,53.7,26.8,Frozen Food,Average,Spoiled
+PAX100207,Bandung,Jakarta,1848.7,Van,15.3,40.9,63.4,Fresh Produce,Average,Spoiled
+PAX100208,Medan,Medan,2197.5,Van,7.8,39.4,52.5,Meat/Seafood,Good,Spoiled
+PAX100209,Medan,Surabaya,1016.3,Refrigerated Truck,6.8,79.6,9.0,Pharmaceuticals,Excellent,Fresh
+PAX100210,Bandung,Jakarta,824.3,Air Freight,14.9,32.5,30.0,Pharmaceuticals,Good,Spoiled
+PAX100211,Medan,Bandung,1672.3,Refrigerated Truck,21.7,55.2,63.9,Pharmaceuticals,Average,Spoiled
+PAX100212,Bandung,Makassar,2021.5,Refrigerated Truck,23.7,40.1,4.4,Frozen Food,Excellent,Spoiled
+PAX100213,Surabaya,Jakarta,1908.1,Van,2.6,82.8,69.3,Frozen Food,Good,Spoiled
+PAX100214,Bandung,Bandung,1996.6,Refrigerated Truck,3.9,63.4,49.2,Pharmaceuticals,Good,Spoiled
+PAX100215,Bandung,Jakarta,1094.6,Motorbike,23.6,43.9,45.8,Meat/Seafood,Good,Spoiled
+PAX100216,Medan,Makassar,2046.4,Van,18.4,60.1,20.2,Meat/Seafood,Average,Spoiled
+PAX100217,Medan,Makassar,309.3,Van,22.1,73.9,18.7,Frozen Food,Good,Spoiled
+PAX100218,Jakarta,Surabaya,1365.8,Van,5.1,87.5,67.9,Pharmaceuticals,Average,Spoiled
+PAX100219,Jakarta,Medan,24.3,Motorbike,14.7,43.2,22.2,Meat/Seafood,Excellent,Less Fresh
+PAX100220,Surabaya,Jakarta,818.2,Motorbike,17.5,83.2,56.1,Meat/Seafood,Good,Spoiled
+PAX100221,Jakarta,Jakarta,922.5,Van,17.0,86.1,28.9,Meat/Seafood,Good,Spoiled
+PAX100222,Bandung,Bandung,996.5,Air Freight,10.2,85.0,10.9,Frozen Food,Good,Less Fresh
+PAX100223,Medan,Makassar,1741.7,Van,0.4,68.1,1.8,Pharmaceuticals,Excellent,Fresh
+PAX100224,Jakarta,Jakarta,977.5,Van,14.6,67.8,39.6,Fresh Produce,Excellent,Spoiled
+PAX100225,Jakarta,Makassar,1127.2,Motorbike,6.3,54.2,70.3,Pharmaceuticals,Good,Spoiled
+PAX100226,Surabaya,Jakarta,601.5,Refrigerated Truck,11.3,75.1,27.2,Pharmaceuticals,Good,Less Fresh
+PAX100227,Surabaya,Surabaya,939.4,Van,23.9,61.9,26.4,Frozen Food,Good,Spoiled
+PAX100228,Bandung,Medan,575.9,Van,10.0,70.6,25.4,Meat/Seafood,Good,Less Fresh
+PAX100229,Medan,Jakarta,192.3,Van,21.0,55.7,38.0,Meat/Seafood,Average,Spoiled
+PAX100230,Surabaya,Makassar,1512.6,Motorbike,4.7,73.9,32.3,Frozen Food,Good,Less Fresh
+PAX100231,Jakarta,Surabaya,1673.8,Motorbike,16.8,79.5,63.5,Frozen Food,Average,Spoiled
+PAX100232,Medan,Jakarta,1552.5,Van,24.4,38.8,36.9,Frozen Food,Excellent,Spoiled
+PAX100233,Medan,Bandung,1164.1,Motorbike,2.5,80.0,37.1,Frozen Food,Average,Spoiled
+PAX100234,Jakarta,Medan,955.7,Motorbike,0.2,62.4,10.8,Frozen Food,Excellent,Fresh
+PAX100235,Surabaya,Jakarta,2159.7,Van,10.8,80.7,70.8,Fresh Produce,Good,Spoiled
+PAX100236,Jakarta,Surabaya,1302.5,Refrigerated Truck,2.3,55.9,18.7,Pharmaceuticals,Good,Less Fresh
+PAX100237,Medan,Bandung,1203.2,Van,18.7,52.7,6.2,Pharmaceuticals,Good,Less Fresh
+PAX100238,Makassar,Surabaya,73.8,Van,22.9,84.9,48.1,Pharmaceuticals,Average,Spoiled
+PAX100239,Makassar,Surabaya,859.7,Van,10.9,45.1,43.3,Meat/Seafood,Average,Spoiled
+PAX100240,Bandung,Bandung,956.7,Air Freight,6.5,80.7,30.5,Fresh Produce,Poor,Spoiled
+PAX100241,Jakarta,Surabaya,1003.1,Van,10.9,59.0,31.0,Pharmaceuticals,Good,Less Fresh
+PAX100242,Jakarta,Bandung,1454.6,Motorbike,18.1,60.8,56.7,Meat/Seafood,Good,Spoiled
+PAX100243,Bandung,Jakarta,1338.7,Refrigerated Truck,0.2,48.5,14.9,Fresh Produce,Good,Less Fresh
+PAX100244,Bandung,Bandung,1523.7,Motorbike,14.7,64.4,59.2,Fresh Produce,Average,Spoiled
+PAX100245,Bandung,Bandung,1914.6,Van,15.3,49.5,47.1,Meat/Seafood,Average,Spoiled
+PAX100246,Medan,Medan,2034.3,Van,15.9,32.4,30.7,Fresh Produce,Good,Spoiled
+PAX100247,Jakarta,Bandung,1798.1,Refrigerated Truck,6.1,46.3,33.5,Meat/Seafood,Excellent,Less Fresh
+PAX100248,Medan,Bandung,2389.3,Van,17.9,30.4,19.2,Pharmaceuticals,Good,Spoiled
+PAX100249,Bandung,Jakarta,55.4,Refrigerated Truck,2.3,88.7,54.4,Meat/Seafood,Good,Spoiled
+PAX100250,Jakarta,Medan,497.5,Air Freight,5.0,87.9,37.4,Fresh Produce,Good,Less Fresh
+PAX100251,Medan,Makassar,28.8,Motorbike,21.9,53.7,23.8,Pharmaceuticals,Poor,Spoiled
+PAX100252,Medan,Jakarta,1622.2,Van,18.5,73.7,43.3,Pharmaceuticals,Excellent,Spoiled
+PAX100253,Bandung,Jakarta,2246.1,Van,0.3,50.7,71.7,Frozen Food,Good,Spoiled
+PAX100254,Jakarta,Makassar,616.3,Van,6.2,70.3,31.9,Frozen Food,Average,Less Fresh
+PAX100255,Bandung,Bandung,2318.3,Van,5.4,78.3,66.4,Fresh Produce,Good,Spoiled
+PAX100256,Jakarta,Surabaya,160.1,Air Freight,6.8,86.8,25.5,Meat/Seafood,Average,Less Fresh
+PAX100257,Makassar,Medan,2336.7,Refrigerated Truck,6.2,54.0,4.9,Meat/Seafood,Excellent,Less Fresh
+PAX100258,Surabaya,Surabaya,885.5,Refrigerated Truck,1.6,77.0,15.5,Fresh Produce,Average,Less Fresh
+PAX100259,Surabaya,Makassar,262.5,Van,11.5,46.0,30.7,Pharmaceuticals,Good,Less Fresh
+PAX100260,Surabaya,Jakarta,1219.8,Refrigerated Truck,18.3,89.4,16.6,Fresh Produce,Average,Spoiled
+PAX100261,Bandung,Jakarta,649.4,Air Freight,15.2,31.5,1.0,Fresh Produce,Good,Less Fresh
+PAX100262,Makassar,Medan,719.3,Refrigerated Truck,16.8,66.2,66.0,Pharmaceuticals,Good,Spoiled
+PAX100263,Jakarta,Jakarta,775.2,Motorbike,2.0,69.6,60.9,Meat/Seafood,Good,Spoiled
+PAX100264,Medan,Jakarta,2009.5,Refrigerated Truck,23.8,71.3,53.7,Fresh Produce,Good,Spoiled
+PAX100265,Jakarta,Medan,1352.5,Motorbike,21.0,37.2,12.9,Meat/Seafood,Excellent,Less Fresh
+PAX100266,Medan,Medan,785.2,Van,20.1,86.3,9.5,Fresh Produce,Poor,Spoiled
+PAX100267,Jakarta,Makassar,1529.7,Motorbike,20.6,40.9,5.8,Pharmaceuticals,Average,Spoiled
+PAX100268,Makassar,Jakarta,1793.2,Refrigerated Truck,23.3,67.4,52.4,Pharmaceuticals,Average,Spoiled
+PAX100269,Medan,Jakarta,688.8,Refrigerated Truck,13.6,43.4,66.9,Frozen Food,Excellent,Spoiled
+PAX100270,Bandung,Makassar,1039.7,Motorbike,5.0,48.4,31.6,Pharmaceuticals,Average,Less Fresh
+PAX100271,Jakarta,Bandung,313.5,Van,15.4,62.8,9.5,Frozen Food,Good,Less Fresh
+PAX100272,Jakarta,Bandung,461.1,Van,18.6,55.0,37.4,Fresh Produce,Good,Spoiled
+PAX100273,Medan,Bandung,1706.0,Van,18.4,39.6,25.8,Meat/Seafood,Average,Spoiled
+PAX100274,Bandung,Makassar,461.8,Motorbike,13.0,40.3,27.6,Pharmaceuticals,Average,Less Fresh
+PAX100275,Bandung,Jakarta,1317.7,Van,1.7,55.1,45.1,Pharmaceuticals,Average,Spoiled
+PAX100276,Makassar,Makassar,1775.5,Refrigerated Truck,9.3,75.4,52.0,Pharmaceuticals,Good,Spoiled
+PAX100277,Bandung,Makassar,276.1,Motorbike,23.0,83.9,8.9,Fresh Produce,Average,Spoiled
+PAX100278,Bandung,Bandung,1422.6,Motorbike,14.6,35.0,3.5,Frozen Food,Poor,Spoiled
+PAX100279,Bandung,Surabaya,648.8,Van,13.5,53.6,71.6,Fresh Produce,Excellent,Spoiled
+PAX100280,Surabaya,Jakarta,2407.7,Air Freight,6.7,36.0,17.5,Meat/Seafood,Excellent,Less Fresh
+PAX100281,Makassar,Bandung,1214.0,Refrigerated Truck,9.2,31.0,4.8,Fresh Produce,Average,Less Fresh
+PAX100282,Jakarta,Surabaya,2016.9,Refrigerated Truck,22.4,69.7,14.5,Meat/Seafood,Average,Spoiled
+PAX100283,Medan,Surabaya,1380.1,Van,16.7,66.1,3.8,Pharmaceuticals,Poor,Spoiled
+PAX100284,Jakarta,Medan,118.1,Van,19.7,39.8,28.8,Meat/Seafood,Good,Spoiled
+PAX100285,Makassar,Jakarta,1586.5,Motorbike,11.4,44.0,58.0,Meat/Seafood,Excellent,Spoiled
+PAX100286,Medan,Surabaya,2379.0,Refrigerated Truck,15.8,31.4,25.2,Frozen Food,Average,Spoiled
+PAX100287,Makassar,Bandung,1508.0,Air Freight,6.2,80.1,32.5,Meat/Seafood,Average,Spoiled
+PAX100288,Bandung,Medan,2049.8,Refrigerated Truck,17.6,88.5,49.0,Meat/Seafood,Good,Spoiled
+PAX100289,Medan,Jakarta,2211.7,Refrigerated Truck,10.7,38.1,37.1,Fresh Produce,Good,Spoiled
+PAX100290,Bandung,Makassar,577.9,Refrigerated Truck,11.1,43.9,62.2,Pharmaceuticals,Poor,Spoiled
+PAX100291,Jakarta,Bandung,538.0,Motorbike,16.2,82.1,62.5,Fresh Produce,Good,Spoiled
+PAX100292,Jakarta,Surabaya,1531.3,Air Freight,23.4,85.6,1.7,Fresh Produce,Average,Spoiled
+PAX100293,Medan,Surabaya,1033.5,Motorbike,1.6,55.2,56.2,Pharmaceuticals,Average,Spoiled
+PAX100294,Medan,Bandung,2101.3,Van,20.6,33.0,33.7,Pharmaceuticals,Good,Spoiled
+PAX100295,Makassar,Surabaya,2251.1,Motorbike,7.3,32.4,71.2,Meat/Seafood,Excellent,Spoiled
+PAX100296,Makassar,Medan,890.0,Motorbike,11.1,64.4,35.3,Meat/Seafood,Good,Less Fresh
+PAX100297,Bandung,Jakarta,599.8,Van,0.5,53.6,71.1,Frozen Food,Excellent,Spoiled
+PAX100298,Medan,Medan,1953.5,Van,7.5,31.7,54.6,Fresh Produce,Good,Spoiled
+PAX100299,Jakarta,Surabaya,694.3,Van,12.6,65.0,18.7,Pharmaceuticals,Good,Less Fresh
+PAX100300,Makassar,Makassar,2058.3,Van,1.4,30.7,39.2,Meat/Seafood,Good,Spoiled
+PAX100301,Makassar,Jakarta,1065.1,Motorbike,12.3,77.2,71.4,Pharmaceuticals,Excellent,Spoiled
+PAX100302,Jakarta,Jakarta,1672.2,Motorbike,23.2,48.4,61.9,Meat/Seafood,Excellent,Spoiled
+PAX100303,Makassar,Bandung,247.9,Van,2.6,32.4,7.9,Frozen Food,Poor,Less Fresh
+PAX100304,Bandung,Bandung,1563.4,Van,19.1,65.3,51.2,Frozen Food,Excellent,Spoiled
+PAX100305,Medan,Makassar,1134.9,Refrigerated Truck,10.2,53.9,25.5,Pharmaceuticals,Excellent,Less Fresh
+PAX100306,Jakarta,Jakarta,1470.7,Refrigerated Truck,16.4,88.4,1.5,Frozen Food,Good,Less Fresh
+PAX100307,Medan,Makassar,428.4,Refrigerated Truck,6.5,62.7,29.6,Pharmaceuticals,Average,Less Fresh
+PAX100308,Makassar,Bandung,1844.8,Refrigerated Truck,4.0,46.5,17.7,Meat/Seafood,Excellent,Less Fresh
+PAX100309,Makassar,Bandung,2158.4,Van,4.0,72.6,59.1,Fresh Produce,Excellent,Spoiled
+PAX100310,Jakarta,Jakarta,549.7,Refrigerated Truck,1.8,46.3,25.0,Frozen Food,Average,Less Fresh
+PAX100311,Bandung,Medan,248.3,Van,4.6,84.3,59.8,Meat/Seafood,Excellent,Spoiled
+PAX100312,Surabaya,Surabaya,68.9,Van,16.6,52.5,1.0,Fresh Produce,Poor,Less Fresh
+PAX100313,Jakarta,Bandung,1608.5,Refrigerated Truck,22.0,63.0,22.9,Fresh Produce,Average,Spoiled
+PAX100314,Surabaya,Bandung,1521.7,Van,20.4,33.0,18.1,Fresh Produce,Good,Spoiled
+PAX100315,Surabaya,Medan,1371.3,Refrigerated Truck,17.1,55.6,17.6,Meat/Seafood,Good,Spoiled
+PAX100316,Bandung,Medan,587.5,Refrigerated Truck,2.8,79.9,5.8,Meat/Seafood,Good,Fresh
+PAX100317,Surabaya,Makassar,983.4,Refrigerated Truck,7.2,78.3,14.3,Pharmaceuticals,Poor,Less Fresh
+PAX100318,Surabaya,Makassar,1490.2,Air Freight,7.7,43.5,40.4,Fresh Produce,Excellent,Less Fresh
+PAX100319,Bandung,Surabaya,1246.9,Van,6.2,43.6,21.7,Fresh Produce,Poor,Less Fresh
+PAX100320,Surabaya,Surabaya,2469.6,Van,12.9,79.0,30.6,Fresh Produce,Average,Spoiled
+PAX100321,Surabaya,Jakarta,349.7,Van,13.4,85.8,27.8,Pharmaceuticals,Poor,Spoiled
+PAX100322,Surabaya,Makassar,1740.9,Van,8.9,35.7,63.2,Fresh Produce,Good,Spoiled
+PAX100323,Jakarta,Bandung,1016.8,Refrigerated Truck,8.8,57.0,65.3,Meat/Seafood,Excellent,Spoiled
+PAX100324,Jakarta,Makassar,1076.2,Refrigerated Truck,20.7,50.2,36.0,Fresh Produce,Good,Spoiled
+PAX100325,Jakarta,Bandung,1796.8,Refrigerated Truck,19.7,82.2,24.4,Frozen Food,Excellent,Spoiled
+PAX100326,Bandung,Medan,1734.2,Van,7.7,35.0,8.6,Meat/Seafood,Poor,Less Fresh
+PAX100327,Makassar,Makassar,2478.2,Motorbike,22.8,42.7,68.7,Pharmaceuticals,Good,Spoiled
+PAX100328,Surabaya,Medan,329.7,Van,23.8,75.1,5.3,Fresh Produce,Good,Less Fresh
+PAX100329,Surabaya,Surabaya,269.2,Motorbike,8.2,33.1,22.1,Frozen Food,Good,Less Fresh
+PAX100330,Bandung,Surabaya,1813.6,Refrigerated Truck,8.9,59.6,22.2,Pharmaceuticals,Poor,Spoiled
+PAX100331,Surabaya,Jakarta,1450.2,Van,12.6,56.5,23.7,Pharmaceuticals,Good,Less Fresh
+PAX100332,Jakarta,Makassar,692.7,Motorbike,23.5,50.1,12.7,Meat/Seafood,Good,Spoiled
+PAX100333,Makassar,Medan,207.8,Motorbike,21.9,53.7,56.6,Pharmaceuticals,Good,Spoiled
+PAX100334,Medan,Bandung,223.3,Refrigerated Truck,2.6,61.8,9.7,Pharmaceuticals,Good,Fresh
+PAX100335,Surabaya,Surabaya,2236.5,Refrigerated Truck,9.8,39.7,46.1,Pharmaceuticals,Average,Spoiled
+PAX100336,Jakarta,Surabaya,487.7,Van,13.8,64.3,9.8,Pharmaceuticals,Good,Less Fresh
+PAX100337,Medan,Bandung,815.2,Motorbike,12.6,78.3,6.0,Fresh Produce,Average,Less Fresh
+PAX100338,Makassar,Medan,574.4,Van,4.8,75.6,65.6,Fresh Produce,Excellent,Spoiled
+PAX100339,Medan,Medan,893.9,Van,21.5,39.2,14.5,Fresh Produce,Good,Spoiled
+PAX100340,Jakarta,Makassar,182.9,Refrigerated Truck,16.9,39.0,59.3,Fresh Produce,Average,Spoiled
+PAX100341,Medan,Makassar,1302.5,Refrigerated Truck,20.9,46.1,39.7,Frozen Food,Excellent,Spoiled
+PAX100342,Bandung,Jakarta,178.4,Van,21.5,51.7,6.5,Fresh Produce,Good,Less Fresh
+PAX100343,Medan,Surabaya,2002.9,Van,18.7,54.5,68.8,Pharmaceuticals,Poor,Spoiled
+PAX100344,Surabaya,Makassar,591.9,Air Freight,11.0,70.8,18.5,Fresh Produce,Good,Less Fresh
+PAX100345,Surabaya,Medan,1354.6,Van,15.3,33.4,62.0,Fresh Produce,Average,Spoiled
+PAX100346,Bandung,Bandung,2201.4,Refrigerated Truck,4.0,32.1,13.0,Meat/Seafood,Excellent,Less Fresh
+PAX100347,Jakarta,Medan,1630.7,Motorbike,16.8,53.5,61.6,Pharmaceuticals,Excellent,Spoiled
+PAX100348,Surabaya,Surabaya,1337.1,Van,4.5,71.8,1.9,Fresh Produce,Excellent,Fresh
+PAX100349,Makassar,Medan,817.6,Motorbike,17.3,41.6,37.3,Fresh Produce,Good,Spoiled
+PAX100350,Surabaya,Jakarta,839.2,Van,5.7,68.5,55.6,Fresh Produce,Good,Spoiled
+PAX100351,Surabaya,Surabaya,1677.0,Air Freight,2.9,45.6,67.4,Frozen Food,Good,Spoiled
+PAX100352,Jakarta,Bandung,2485.4,Van,4.1,83.2,65.6,Fresh Produce,Average,Spoiled
+PAX100353,Medan,Jakarta,1658.0,Motorbike,0.0,83.7,59.2,Meat/Seafood,Good,Spoiled
+PAX100354,Surabaya,Surabaya,1398.9,Motorbike,18.0,47.8,64.1,Pharmaceuticals,Good,Spoiled
+PAX100355,Bandung,Bandung,1829.3,Van,18.3,43.8,15.1,Pharmaceuticals,Poor,Spoiled
+PAX100356,Medan,Jakarta,1168.4,Motorbike,12.9,54.7,21.2,Fresh Produce,Good,Less Fresh
+PAX100357,Makassar,Jakarta,159.8,Motorbike,4.0,44.4,21.5,Fresh Produce,Excellent,Fresh
+PAX100358,Jakarta,Surabaya,1410.1,Refrigerated Truck,2.1,70.3,27.8,Fresh Produce,Excellent,Less Fresh
+PAX100359,Makassar,Makassar,2394.5,Van,0.5,79.6,28.9,Pharmaceuticals,Poor,Spoiled
+PAX100360,Medan,Jakarta,446.5,Van,4.1,70.4,39.7,Pharmaceuticals,Poor,Spoiled
+PAX100361,Medan,Jakarta,1728.1,Air Freight,22.3,79.5,12.4,Frozen Food,Average,Spoiled
+PAX100362,Medan,Bandung,510.3,Motorbike,6.0,53.8,50.1,Meat/Seafood,Excellent,Less Fresh
+PAX100363,Makassar,Medan,1344.2,Air Freight,8.9,39.4,12.9,Frozen Food,Average,Less Fresh
+PAX100364,Medan,Surabaya,250.7,Van,2.6,74.3,23.0,Meat/Seafood,Good,Less Fresh
+PAX100365,Makassar,Surabaya,1131.4,Refrigerated Truck,5.6,51.6,36.7,Frozen Food,Average,Spoiled
+PAX100366,Medan,Makassar,1892.8,Refrigerated Truck,13.0,70.3,57.5,Pharmaceuticals,Good,Spoiled
+PAX100367,Bandung,Makassar,875.5,Refrigerated Truck,15.2,46.2,53.5,Frozen Food,Average,Spoiled
+PAX100368,Medan,Surabaya,1665.6,Air Freight,6.1,34.9,46.8,Meat/Seafood,Good,Spoiled
+PAX100369,Makassar,Makassar,1990.7,Van,1.4,89.6,12.1,Fresh Produce,Average,Less Fresh
+PAX100370,Surabaya,Bandung,2318.7,Air Freight,9.8,39.4,39.8,Meat/Seafood,Good,Spoiled
+PAX100371,Medan,Surabaya,594.3,Van,5.9,89.3,7.2,Fresh Produce,Average,Less Fresh
+PAX100372,Surabaya,Makassar,1004.3,Van,5.5,88.6,27.8,Pharmaceuticals,Good,Less Fresh
+PAX100373,Bandung,Surabaya,389.5,Van,24.0,77.6,30.4,Meat/Seafood,Excellent,Spoiled
+PAX100374,Jakarta,Medan,2481.3,Van,15.4,69.6,3.8,Frozen Food,Average,Spoiled
+PAX100375,Bandung,Jakarta,2318.2,Motorbike,13.9,64.7,20.5,Meat/Seafood,Excellent,Spoiled
+PAX100376,Medan,Surabaya,1354.5,Van,10.4,82.0,68.9,Fresh Produce,Good,Spoiled
+PAX100377,Surabaya,Jakarta,2106.7,Van,10.7,47.4,68.7,Pharmaceuticals,Average,Spoiled
+PAX100378,Surabaya,Makassar,1307.2,Refrigerated Truck,13.5,58.1,26.0,Frozen Food,Good,Less Fresh
+PAX100379,Makassar,Jakarta,1562.7,Refrigerated Truck,17.4,67.2,4.1,Meat/Seafood,Average,Less Fresh
+PAX100380,Surabaya,Surabaya,231.9,Van,17.6,54.7,13.7,Fresh Produce,Good,Less Fresh
+PAX100381,Makassar,Medan,1890.6,Van,4.3,55.6,28.8,Frozen Food,Good,Less Fresh
+PAX100382,Jakarta,Makassar,328.0,Van,12.5,49.8,68.3,Pharmaceuticals,Average,Spoiled
+PAX100383,Medan,Surabaya,2066.9,Motorbike,10.3,63.9,11.0,Frozen Food,Good,Less Fresh
+PAX100384,Makassar,Makassar,1957.2,Motorbike,21.8,81.0,55.2,Pharmaceuticals,Excellent,Spoiled
+PAX100385,Jakarta,Bandung,1774.8,Van,15.8,42.1,8.7,Frozen Food,Excellent,Less Fresh
+PAX100386,Surabaya,Jakarta,100.0,Van,13.3,86.1,70.7,Meat/Seafood,Good,Spoiled
+PAX100387,Surabaya,Bandung,764.8,Air Freight,2.9,71.3,28.1,Fresh Produce,Excellent,Less Fresh
+PAX100388,Jakarta,Surabaya,665.2,Van,15.1,79.4,56.0,Meat/Seafood,Good,Spoiled
+PAX100389,Surabaya,Medan,906.7,Van,2.9,63.4,25.3,Meat/Seafood,Average,Less Fresh
+PAX100390,Jakarta,Makassar,228.2,Van,8.4,76.8,45.6,Pharmaceuticals,Excellent,Less Fresh
+PAX100391,Makassar,Jakarta,2343.0,Motorbike,3.6,31.0,14.6,Pharmaceuticals,Good,Less Fresh
+PAX100392,Makassar,Makassar,1389.0,Van,17.3,79.1,11.4,Pharmaceuticals,Good,Spoiled
+PAX100393,Jakarta,Surabaya,770.8,Refrigerated Truck,5.2,32.4,67.6,Meat/Seafood,Good,Spoiled
+PAX100394,Makassar,Makassar,998.5,Van,9.8,83.4,66.2,Frozen Food,Excellent,Spoiled
+PAX100395,Makassar,Jakarta,1123.5,Van,22.4,89.5,64.0,Frozen Food,Excellent,Spoiled
+PAX100396,Makassar,Surabaya,1505.5,Air Freight,5.1,47.6,45.4,Meat/Seafood,Good,Spoiled
+PAX100397,Bandung,Makassar,1294.0,Refrigerated Truck,12.7,42.6,58.4,Meat/Seafood,Average,Spoiled
+PAX100398,Medan,Medan,2299.3,Refrigerated Truck,10.5,75.9,5.9,Fresh Produce,Good,Less Fresh
+PAX100399,Surabaya,Surabaya,1247.4,Van,0.5,45.2,24.8,Pharmaceuticals,Good,Less Fresh
+PAX100400,Bandung,Surabaya,2480.5,Refrigerated Truck,19.8,81.9,23.3,Pharmaceuticals,Average,Spoiled
+PAX100401,Makassar,Medan,2130.0,Van,1.7,36.2,46.1,Meat/Seafood,Good,Spoiled
+PAX100402,Jakarta,Bandung,529.2,Van,11.9,37.6,26.3,Meat/Seafood,Good,Less Fresh
+PAX100403,Makassar,Jakarta,2327.2,Motorbike,14.0,88.7,11.5,Frozen Food,Average,Spoiled
+PAX100404,Medan,Bandung,299.8,Van,15.7,70.4,43.3,Meat/Seafood,Average,Spoiled
+PAX100405,Makassar,Makassar,2045.4,Van,17.2,80.8,58.8,Frozen Food,Average,Spoiled
+PAX100406,Jakarta,Medan,957.8,Van,6.3,49.5,28.1,Meat/Seafood,Excellent,Less Fresh
+PAX100407,Medan,Bandung,2196.2,Air Freight,0.2,70.6,10.4,Fresh Produce,Average,Less Fresh
+PAX100408,Makassar,Surabaya,2171.5,Air Freight,18.1,65.7,15.0,Fresh Produce,Average,Spoiled
+PAX100409,Medan,Makassar,2016.8,Refrigerated Truck,13.4,66.2,17.9,Frozen Food,Good,Spoiled
+PAX100410,Surabaya,Makassar,1977.2,Van,20.9,71.0,22.3,Pharmaceuticals,Average,Spoiled
+PAX100411,Surabaya,Bandung,768.7,Refrigerated Truck,20.5,64.5,46.6,Fresh Produce,Poor,Spoiled
+PAX100412,Makassar,Bandung,211.5,Motorbike,21.1,55.7,43.7,Frozen Food,Average,Spoiled
+PAX100413,Medan,Medan,1013.4,Refrigerated Truck,12.1,46.6,50.4,Meat/Seafood,Good,Spoiled
+PAX100414,Jakarta,Jakarta,442.1,Motorbike,8.3,76.1,26.7,Meat/Seafood,Good,Less Fresh
+PAX100415,Makassar,Bandung,1740.4,Refrigerated Truck,19.8,43.6,59.5,Frozen Food,Average,Spoiled
+PAX100416,Surabaya,Bandung,871.8,Van,11.3,71.5,15.5,Pharmaceuticals,Good,Less Fresh
+PAX100417,Surabaya,Surabaya,2439.3,Refrigerated Truck,4.6,44.0,34.3,Frozen Food,Excellent,Spoiled
+PAX100418,Makassar,Makassar,1606.0,Air Freight,21.4,67.5,57.9,Frozen Food,Average,Spoiled
+PAX100419,Medan,Jakarta,2058.0,Motorbike,22.1,74.8,13.8,Fresh Produce,Average,Spoiled
+PAX100420,Surabaya,Surabaya,340.0,Van,11.7,43.1,8.8,Frozen Food,Average,Less Fresh
+PAX100421,Medan,Medan,2156.4,Air Freight,1.9,33.6,63.7,Frozen Food,Good,Spoiled
+PAX100422,Surabaya,Medan,2307.7,Van,9.7,37.9,25.3,Meat/Seafood,Good,Spoiled
+PAX100423,Surabaya,Bandung,1222.8,Refrigerated Truck,20.1,66.4,49.6,Fresh Produce,Average,Spoiled
+PAX100424,Bandung,Bandung,1519.6,Van,22.5,81.0,2.8,Meat/Seafood,Good,Spoiled
+PAX100425,Surabaya,Medan,1914.4,Van,5.1,32.7,50.0,Meat/Seafood,Poor,Spoiled
+PAX100426,Jakarta,Bandung,445.3,Van,1.7,74.0,23.4,Pharmaceuticals,Good,Less Fresh
+PAX100427,Makassar,Jakarta,1261.4,Van,21.9,50.5,5.0,Pharmaceuticals,Good,Less Fresh
+PAX100428,Makassar,Bandung,1002.7,Refrigerated Truck,9.7,58.7,44.3,Fresh Produce,Average,Spoiled
+PAX100429,Medan,Makassar,374.5,Van,13.5,85.7,18.1,Fresh Produce,Good,Less Fresh
+PAX100430,Surabaya,Bandung,925.2,Van,24.2,49.9,28.5,Pharmaceuticals,Average,Spoiled
+PAX100431,Jakarta,Surabaya,179.7,Van,1.7,57.9,6.7,Pharmaceuticals,Good,Fresh
+PAX100432,Medan,Jakarta,74.3,Van,16.2,30.8,11.4,Pharmaceuticals,Poor,Less Fresh
+PAX100433,Bandung,Surabaya,346.6,Refrigerated Truck,1.9,34.9,22.2,Pharmaceuticals,Excellent,Fresh
+PAX100434,Medan,Surabaya,2408.2,Air Freight,9.4,45.5,7.4,Pharmaceuticals,Average,Less Fresh
+PAX100435,Medan,Makassar,1378.3,Van,20.1,31.7,65.7,Meat/Seafood,Excellent,Spoiled
+PAX100436,Surabaya,Jakarta,2414.9,Refrigerated Truck,10.8,67.9,1.4,Fresh Produce,Average,Less Fresh
+PAX100437,Bandung,Jakarta,1086.9,Refrigerated Truck,24.9,55.6,35.4,Meat/Seafood,Good,Spoiled
+PAX100438,Medan,Jakarta,786.4,Van,14.0,62.9,9.8,Meat/Seafood,Average,Less Fresh
+PAX100439,Jakarta,Jakarta,1270.3,Air Freight,8.0,40.5,22.8,Frozen Food,Excellent,Less Fresh
+PAX100440,Jakarta,Jakarta,1104.4,Van,5.5,47.8,66.8,Meat/Seafood,Average,Spoiled
+PAX100441,Makassar,Makassar,273.1,Motorbike,8.8,69.8,12.5,Pharmaceuticals,Average,Fresh
+PAX100442,Bandung,Bandung,1605.7,Refrigerated Truck,9.3,87.9,69.6,Pharmaceuticals,Good,Spoiled
+PAX100443,Bandung,Surabaya,547.9,Van,1.7,33.0,15.6,Frozen Food,Poor,Less Fresh
+PAX100444,Makassar,Jakarta,1552.8,Refrigerated Truck,9.2,83.4,53.7,Frozen Food,Average,Spoiled
+PAX100445,Medan,Bandung,1629.0,Refrigerated Truck,11.6,64.6,39.8,Frozen Food,Excellent,Spoiled
+PAX100446,Bandung,Bandung,388.5,Motorbike,18.1,63.8,63.8,Frozen Food,Excellent,Spoiled
+PAX100447,Jakarta,Surabaya,162.8,Refrigerated Truck,16.4,60.0,40.3,Frozen Food,Average,Spoiled
+PAX100448,Jakarta,Makassar,1954.1,Van,17.7,34.2,39.0,Meat/Seafood,Excellent,Spoiled
+PAX100449,Surabaya,Medan,1154.9,Van,0.2,35.4,14.9,Frozen Food,Good,Less Fresh
+PAX100450,Bandung,Medan,154.8,Refrigerated Truck,5.4,66.1,12.8,Meat/Seafood,Average,Fresh
+PAX100451,Medan,Bandung,2487.2,Air Freight,16.5,50.5,66.1,Fresh Produce,Good,Spoiled
+PAX100452,Makassar,Surabaya,153.9,Motorbike,12.1,85.0,24.3,Frozen Food,Good,Less Fresh
+PAX100453,Makassar,Medan,1740.6,Van,0.1,54.4,27.4,Frozen Food,Excellent,Less Fresh
+PAX100454,Medan,Bandung,2459.4,Refrigerated Truck,20.1,38.6,54.9,Meat/Seafood,Average,Spoiled
+PAX100455,Surabaya,Makassar,605.6,Refrigerated Truck,19.3,72.9,25.1,Fresh Produce,Good,Spoiled
+PAX100456,Makassar,Medan,364.2,Refrigerated Truck,13.7,47.6,68.6,Meat/Seafood,Poor,Spoiled
+PAX100457,Bandung,Bandung,312.2,Motorbike,1.7,61.5,53.4,Meat/Seafood,Average,Spoiled
+PAX100458,Surabaya,Bandung,765.2,Van,19.2,71.9,43.4,Frozen Food,Poor,Spoiled
+PAX100459,Bandung,Jakarta,261.6,Van,14.6,84.0,63.5,Pharmaceuticals,Excellent,Spoiled
+PAX100460,Jakarta,Makassar,1733.5,Refrigerated Truck,19.5,77.5,4.5,Pharmaceuticals,Excellent,Less Fresh
+PAX100461,Surabaya,Jakarta,165.1,Van,18.8,70.6,19.3,Meat/Seafood,Good,Less Fresh
+PAX100462,Makassar,Surabaya,1278.5,Van,20.1,70.8,34.0,Frozen Food,Good,Spoiled
+PAX100463,Surabaya,Jakarta,2491.8,Air Freight,13.0,86.8,17.1,Fresh Produce,Average,Spoiled
+PAX100464,Surabaya,Jakarta,2036.8,Motorbike,3.5,47.7,53.8,Pharmaceuticals,Average,Spoiled
+PAX100465,Surabaya,Medan,1541.9,Air Freight,16.8,30.1,66.3,Fresh Produce,Average,Spoiled
+PAX100466,Surabaya,Bandung,772.6,Refrigerated Truck,15.5,46.3,31.1,Pharmaceuticals,Average,Spoiled
+PAX100467,Bandung,Makassar,1563.5,Refrigerated Truck,18.6,43.1,25.3,Frozen Food,Good,Spoiled
+PAX100468,Jakarta,Jakarta,1322.3,Van,4.2,69.7,69.3,Meat/Seafood,Good,Spoiled
+PAX100469,Medan,Makassar,1070.9,Motorbike,4.9,68.0,32.6,Fresh Produce,Poor,Spoiled
+PAX100470,Surabaya,Jakarta,335.5,Refrigerated Truck,22.3,65.6,35.7,Fresh Produce,Poor,Spoiled
+PAX100471,Makassar,Surabaya,2217.6,Refrigerated Truck,18.7,31.0,26.0,Meat/Seafood,Average,Spoiled
+PAX100472,Surabaya,Jakarta,1130.0,Refrigerated Truck,22.7,73.7,65.6,Fresh Produce,Good,Spoiled
+PAX100473,Makassar,Medan,494.6,Motorbike,19.0,49.4,41.4,Pharmaceuticals,Excellent,Spoiled
+PAX100474,Bandung,Bandung,925.7,Refrigerated Truck,14.9,69.9,55.1,Meat/Seafood,Good,Spoiled
+PAX100475,Makassar,Surabaya,1041.2,Refrigerated Truck,16.4,63.4,58.6,Pharmaceuticals,Excellent,Spoiled
+PAX100476,Medan,Jakarta,2070.6,Refrigerated Truck,22.2,50.6,25.3,Pharmaceuticals,Good,Spoiled
+PAX100477,Jakarta,Makassar,1836.7,Refrigerated Truck,14.5,38.1,31.8,Frozen Food,Average,Spoiled
+PAX100478,Makassar,Surabaya,1925.6,Refrigerated Truck,15.8,35.7,61.2,Pharmaceuticals,Average,Spoiled
+PAX100479,Makassar,Surabaya,37.5,Refrigerated Truck,3.9,79.9,26.8,Frozen Food,Excellent,Less Fresh
+PAX100480,Jakarta,Jakarta,1046.2,Motorbike,11.8,85.1,57.4,Fresh Produce,Good,Spoiled
+PAX100481,Medan,Surabaya,1208.5,Van,17.9,69.0,67.8,Fresh Produce,Average,Spoiled
+PAX100482,Surabaya,Makassar,57.8,Motorbike,6.8,36.2,45.2,Frozen Food,Good,Less Fresh
+PAX100483,Makassar,Surabaya,656.9,Van,5.1,54.1,53.7,Pharmaceuticals,Good,Spoiled
+PAX100484,Jakarta,Makassar,1903.1,Van,7.8,73.7,58.2,Meat/Seafood,Good,Spoiled
+PAX100485,Bandung,Jakarta,351.4,Motorbike,6.0,76.8,61.0,Meat/Seafood,Excellent,Spoiled
+PAX100486,Jakarta,Bandung,1342.9,Van,5.4,37.1,29.0,Frozen Food,Good,Less Fresh
+PAX100487,Bandung,Surabaya,545.9,Motorbike,10.6,30.0,4.6,Fresh Produce,Good,Fresh
+PAX100488,Medan,Bandung,40.2,Refrigerated Truck,22.7,72.7,29.5,Fresh Produce,Poor,Spoiled
+PAX100489,Surabaya,Makassar,610.6,Air Freight,12.7,51.4,48.8,Meat/Seafood,Poor,Spoiled
+PAX100490,Jakarta,Surabaya,2439.9,Motorbike,4.7,45.3,33.0,Frozen Food,Average,Spoiled
+PAX100491,Makassar,Medan,2005.8,Air Freight,1.9,30.8,54.2,Meat/Seafood,Poor,Spoiled
+PAX100492,Medan,Bandung,2399.3,Van,17.4,62.4,26.3,Pharmaceuticals,Good,Spoiled
+PAX100493,Jakarta,Surabaya,1224.8,Van,9.6,81.1,46.1,Pharmaceuticals,Good,Spoiled
+PAX100494,Makassar,Bandung,283.2,Motorbike,20.5,87.5,14.2,Frozen Food,Average,Spoiled
+PAX100495,Jakarta,Surabaya,1374.4,Van,16.5,63.9,54.2,Frozen Food,Excellent,Spoiled
+PAX100496,Bandung,Jakarta,1141.4,Refrigerated Truck,19.9,60.9,39.7,Pharmaceuticals,Average,Spoiled
+PAX100497,Jakarta,Bandung,2112.4,Refrigerated Truck,6.8,35.1,15.5,Fresh Produce,Average,Less Fresh
+PAX100498,Jakarta,Medan,254.2,Motorbike,17.3,62.9,21.7,Frozen Food,Average,Less Fresh
+PAX100499,Jakarta,Medan,1225.7,Motorbike,6.6,52.8,54.2,Pharmaceuticals,Average,Spoiled
+PAX100500,Medan,Makassar,383.6,Van,23.5,66.4,35.3,Pharmaceuticals,Average,Spoiled
+PAX100501,Jakarta,Surabaya,818.4,Van,15.9,53.3,16.3,Fresh Produce,Good,Less Fresh
+PAX100502,Makassar,Bandung,1846.0,Van,8.1,44.4,69.7,Fresh Produce,Good,Spoiled
+PAX100503,Bandung,Makassar,1195.3,Van,6.7,35.7,51.8,Fresh Produce,Excellent,Spoiled
+PAX100504,Bandung,Bandung,946.0,Refrigerated Truck,4.8,48.9,69.0,Fresh Produce,Poor,Spoiled
+PAX100505,Jakarta,Surabaya,992.2,Air Freight,17.4,35.8,31.3,Meat/Seafood,Average,Spoiled
+PAX100506,Medan,Medan,1154.0,Van,5.5,40.6,34.7,Fresh Produce,Poor,Spoiled
+PAX100507,Medan,Jakarta,1964.7,Air Freight,14.9,89.2,64.8,Meat/Seafood,Good,Spoiled
+PAX100508,Makassar,Medan,2231.3,Van,6.6,56.6,38.3,Frozen Food,Poor,Spoiled
+PAX100509,Jakarta,Makassar,2388.8,Van,16.5,61.9,51.2,Pharmaceuticals,Excellent,Spoiled
+PAX100510,Bandung,Jakarta,1969.4,Van,20.4,82.4,18.9,Meat/Seafood,Good,Spoiled
+PAX100511,Medan,Makassar,795.4,Refrigerated Truck,19.5,89.7,32.7,Frozen Food,Good,Spoiled
+PAX100512,Jakarta,Surabaya,1723.5,Air Freight,19.0,65.0,9.8,Frozen Food,Good,Spoiled
+PAX100513,Medan,Jakarta,1099.6,Refrigerated Truck,4.7,78.7,15.6,Meat/Seafood,Average,Less Fresh
+PAX100514,Medan,Makassar,644.1,Van,2.2,49.6,1.1,Frozen Food,Average,Fresh
+PAX100515,Bandung,Surabaya,2103.8,Refrigerated Truck,17.5,48.3,3.8,Frozen Food,Average,Spoiled
+PAX100516,Surabaya,Medan,105.7,Motorbike,9.2,54.2,70.4,Meat/Seafood,Good,Spoiled
+PAX100517,Makassar,Surabaya,2255.4,Refrigerated Truck,10.8,70.4,18.2,Frozen Food,Average,Spoiled
+PAX100518,Makassar,Bandung,1159.1,Van,0.8,70.9,48.1,Fresh Produce,Average,Spoiled
+PAX100519,Bandung,Surabaya,1596.6,Van,6.5,48.9,60.6,Fresh Produce,Excellent,Spoiled
+PAX100520,Medan,Surabaya,1651.8,Van,0.8,38.0,40.1,Pharmaceuticals,Poor,Spoiled
+PAX100521,Jakarta,Bandung,2238.8,Refrigerated Truck,22.0,67.9,11.9,Frozen Food,Excellent,Spoiled
+PAX100522,Medan,Makassar,1595.3,Motorbike,6.1,37.7,52.7,Pharmaceuticals,Good,Spoiled
+PAX100523,Bandung,Makassar,1538.7,Refrigerated Truck,13.9,64.7,43.6,Fresh Produce,Average,Spoiled
+PAX100524,Makassar,Surabaya,176.0,Van,1.0,71.6,52.9,Fresh Produce,Average,Spoiled
+PAX100525,Medan,Bandung,1300.8,Refrigerated Truck,16.7,72.0,55.7,Fresh Produce,Average,Spoiled
+PAX100526,Makassar,Bandung,383.9,Refrigerated Truck,8.1,75.2,70.3,Frozen Food,Good,Spoiled
+PAX100527,Jakarta,Medan,1846.2,Refrigerated Truck,22.4,82.4,41.7,Frozen Food,Good,Spoiled
+PAX100528,Makassar,Makassar,1285.4,Van,22.2,60.0,25.3,Fresh Produce,Good,Spoiled
+PAX100529,Makassar,Jakarta,1703.8,Van,8.1,73.8,47.0,Pharmaceuticals,Excellent,Spoiled
+PAX100530,Surabaya,Makassar,113.8,Motorbike,22.5,67.2,5.9,Pharmaceuticals,Good,Less Fresh
+PAX100531,Surabaya,Makassar,221.1,Refrigerated Truck,24.9,41.2,64.7,Meat/Seafood,Average,Spoiled
+PAX100532,Surabaya,Medan,1793.6,Van,20.6,31.5,9.5,Fresh Produce,Average,Spoiled
+PAX100533,Makassar,Jakarta,189.5,Van,21.1,47.1,24.3,Pharmaceuticals,Excellent,Less Fresh
+PAX100534,Bandung,Medan,187.4,Van,6.2,56.6,58.9,Fresh Produce,Average,Spoiled
+PAX100535,Makassar,Jakarta,40.2,Motorbike,14.4,67.0,43.4,Pharmaceuticals,Poor,Spoiled
+PAX100536,Bandung,Surabaya,2391.7,Refrigerated Truck,1.7,81.0,28.9,Meat/Seafood,Good,Spoiled
+PAX100537,Bandung,Jakarta,1846.4,Motorbike,2.4,41.8,34.6,Meat/Seafood,Good,Spoiled
+PAX100538,Surabaya,Medan,889.6,Refrigerated Truck,25.0,37.5,61.7,Fresh Produce,Excellent,Spoiled
+PAX100539,Medan,Makassar,748.4,Van,8.2,87.8,25.1,Pharmaceuticals,Good,Less Fresh
+PAX100540,Jakarta,Jakarta,880.8,Motorbike,18.7,36.5,62.7,Frozen Food,Poor,Spoiled
+PAX100541,Surabaya,Jakarta,1938.9,Van,20.2,58.7,7.3,Meat/Seafood,Excellent,Less Fresh
+PAX100542,Surabaya,Bandung,1656.8,Motorbike,21.5,65.1,56.2,Fresh Produce,Average,Spoiled
+PAX100543,Medan,Makassar,471.1,Van,24.9,62.5,61.2,Fresh Produce,Average,Spoiled
+PAX100544,Jakarta,Surabaya,443.5,Refrigerated Truck,6.0,35.2,13.9,Pharmaceuticals,Good,Fresh
+PAX100545,Makassar,Medan,255.0,Motorbike,1.0,33.4,31.6,Fresh Produce,Poor,Less Fresh
+PAX100546,Makassar,Surabaya,1654.2,Refrigerated Truck,10.3,36.3,12.8,Meat/Seafood,Good,Less Fresh
+PAX100547,Surabaya,Makassar,1913.3,Motorbike,3.3,65.1,51.2,Fresh Produce,Average,Spoiled
+PAX100548,Jakarta,Jakarta,670.0,Van,0.6,62.7,39.0,Fresh Produce,Good,Less Fresh
+PAX100549,Surabaya,Jakarta,62.2,Refrigerated Truck,9.0,44.0,46.1,Frozen Food,Average,Less Fresh
+PAX100550,Bandung,Makassar,214.6,Van,19.6,68.3,15.0,Frozen Food,Good,Less Fresh
+PAX100551,Surabaya,Jakarta,2420.0,Motorbike,14.2,79.2,16.0,Meat/Seafood,Excellent,Spoiled
+PAX100552,Surabaya,Jakarta,745.7,Van,7.8,32.5,3.9,Pharmaceuticals,Average,Fresh
+PAX100553,Makassar,Jakarta,1925.4,Van,16.4,59.9,23.9,Frozen Food,Average,Spoiled
+PAX100554,Makassar,Medan,1565.4,Refrigerated Truck,5.8,71.4,40.7,Pharmaceuticals,Average,Spoiled
+PAX100555,Makassar,Medan,961.0,Van,0.4,45.1,61.9,Meat/Seafood,Average,Spoiled
+PAX100556,Bandung,Bandung,522.2,Refrigerated Truck,19.1,48.5,48.4,Frozen Food,Good,Spoiled
+PAX100557,Makassar,Surabaya,312.3,Refrigerated Truck,15.6,66.8,31.9,Pharmaceuticals,Good,Less Fresh
+PAX100558,Jakarta,Makassar,1541.4,Van,19.1,83.9,68.7,Frozen Food,Average,Spoiled
+PAX100559,Medan,Makassar,1938.8,Air Freight,1.0,78.6,52.1,Meat/Seafood,Average,Spoiled
+PAX100560,Jakarta,Makassar,1613.3,Van,20.9,65.0,67.0,Meat/Seafood,Average,Spoiled
+PAX100561,Jakarta,Bandung,1330.5,Air Freight,15.5,73.8,38.5,Frozen Food,Good,Spoiled
+PAX100562,Makassar,Medan,114.5,Motorbike,14.1,51.9,19.4,Pharmaceuticals,Average,Less Fresh
+PAX100563,Medan,Bandung,2421.5,Refrigerated Truck,15.6,68.5,4.8,Fresh Produce,Excellent,Less Fresh
+PAX100564,Medan,Makassar,1998.8,Van,21.6,58.0,52.6,Fresh Produce,Good,Spoiled
+PAX100565,Medan,Surabaya,739.1,Van,14.7,41.4,9.6,Frozen Food,Average,Less Fresh
+PAX100566,Bandung,Jakarta,2450.1,Refrigerated Truck,14.5,72.1,22.5,Pharmaceuticals,Good,Spoiled
+PAX100567,Makassar,Medan,1508.7,Refrigerated Truck,24.8,63.4,38.8,Fresh Produce,Excellent,Spoiled
+PAX100568,Medan,Medan,1460.2,Motorbike,18.9,51.5,41.1,Meat/Seafood,Good,Spoiled
+PAX100569,Bandung,Bandung,1872.7,Motorbike,11.1,84.7,43.6,Pharmaceuticals,Average,Spoiled
+PAX100570,Surabaya,Medan,2031.3,Refrigerated Truck,17.7,31.3,12.8,Fresh Produce,Average,Spoiled
+PAX100571,Surabaya,Makassar,1644.6,Refrigerated Truck,9.7,48.9,28.0,Pharmaceuticals,Excellent,Less Fresh
+PAX100572,Bandung,Makassar,329.0,Air Freight,5.7,33.4,44.8,Frozen Food,Good,Less Fresh
+PAX100573,Bandung,Bandung,852.3,Refrigerated Truck,14.9,76.0,69.9,Pharmaceuticals,Good,Spoiled
+PAX100574,Makassar,Makassar,2320.9,Air Freight,23.2,72.1,52.7,Fresh Produce,Excellent,Spoiled
+PAX100575,Makassar,Surabaya,569.3,Refrigerated Truck,23.2,49.9,66.5,Frozen Food,Excellent,Spoiled
+PAX100576,Surabaya,Bandung,936.7,Van,8.5,70.5,55.1,Pharmaceuticals,Excellent,Spoiled
+PAX100577,Medan,Surabaya,1085.9,Motorbike,13.2,53.8,43.0,Meat/Seafood,Poor,Spoiled
+PAX100578,Surabaya,Jakarta,1104.1,Refrigerated Truck,5.3,75.4,14.6,Fresh Produce,Good,Less Fresh
+PAX100579,Medan,Surabaya,1536.2,Refrigerated Truck,24.9,57.3,48.3,Frozen Food,Good,Spoiled
+PAX100580,Medan,Jakarta,2358.3,Motorbike,24.5,54.7,45.3,Pharmaceuticals,Good,Spoiled
+PAX100581,Makassar,Jakarta,609.3,Van,16.2,86.1,43.8,Meat/Seafood,Good,Spoiled
+PAX100582,Jakarta,Surabaya,312.5,Air Freight,20.1,45.1,35.8,Fresh Produce,Average,Spoiled
+PAX100583,Jakarta,Bandung,501.7,Van,17.9,37.2,38.5,Meat/Seafood,Good,Spoiled
+PAX100584,Bandung,Makassar,2218.4,Van,14.8,65.1,24.7,Pharmaceuticals,Good,Spoiled
+PAX100585,Makassar,Makassar,1618.1,Van,1.3,88.2,37.9,Pharmaceuticals,Poor,Spoiled
+PAX100586,Medan,Jakarta,721.9,Van,11.4,52.7,15.0,Frozen Food,Good,Less Fresh
+PAX100587,Jakarta,Jakarta,2041.7,Van,16.9,33.7,58.2,Meat/Seafood,Average,Spoiled
+PAX100588,Medan,Bandung,2154.8,Van,16.9,50.4,14.2,Frozen Food,Average,Spoiled
+PAX100589,Jakarta,Medan,2117.8,Motorbike,9.3,60.4,7.0,Fresh Produce,Poor,Less Fresh
+PAX100590,Jakarta,Surabaya,2298.1,Refrigerated Truck,23.5,39.7,32.0,Frozen Food,Good,Spoiled
+PAX100591,Jakarta,Jakarta,638.1,Van,4.2,69.5,47.7,Fresh Produce,Good,Less Fresh
+PAX100592,Makassar,Makassar,1890.1,Refrigerated Truck,12.5,89.9,32.1,Pharmaceuticals,Good,Spoiled
+PAX100593,Surabaya,Bandung,1156.7,Refrigerated Truck,17.3,57.1,20.6,Pharmaceuticals,Good,Spoiled
+PAX100594,Medan,Surabaya,2106.6,Van,17.4,51.3,40.6,Meat/Seafood,Excellent,Spoiled
+PAX100595,Makassar,Bandung,1823.9,Refrigerated Truck,16.2,54.0,25.6,Fresh Produce,Average,Spoiled
+PAX100596,Makassar,Surabaya,1943.4,Van,6.9,36.9,67.2,Pharmaceuticals,Average,Spoiled
+PAX100597,Makassar,Surabaya,1643.8,Refrigerated Truck,3.9,83.0,66.5,Meat/Seafood,Excellent,Spoiled
+PAX100598,Makassar,Jakarta,451.8,Van,15.9,54.9,36.7,Meat/Seafood,Average,Spoiled
+PAX100599,Makassar,Bandung,1367.1,Refrigerated Truck,15.0,53.2,24.3,Frozen Food,Excellent,Less Fresh
+PAX100600,Bandung,Bandung,2461.8,Refrigerated Truck,4.5,69.6,53.3,Meat/Seafood,Excellent,Spoiled
+PAX100601,Medan,Makassar,2344.1,Van,17.6,56.5,3.6,Pharmaceuticals,Good,Spoiled
+PAX100602,Makassar,Makassar,117.5,Motorbike,11.4,68.9,34.7,Frozen Food,Excellent,Less Fresh
+PAX100603,Medan,Jakarta,420.4,Refrigerated Truck,16.7,33.7,24.9,Fresh Produce,Poor,Spoiled
+PAX100604,Bandung,Jakarta,338.0,Refrigerated Truck,20.9,78.8,66.4,Fresh Produce,Average,Spoiled
+PAX100605,Bandung,Medan,1817.7,Van,4.2,86.4,1.9,Pharmaceuticals,Good,Less Fresh
+PAX100606,Medan,Makassar,2046.3,Refrigerated Truck,0.5,68.9,40.2,Pharmaceuticals,Average,Spoiled
+PAX100607,Jakarta,Surabaya,541.6,Van,19.5,87.3,53.6,Frozen Food,Excellent,Spoiled
+PAX100608,Surabaya,Bandung,1269.6,Refrigerated Truck,15.2,39.1,35.4,Frozen Food,Poor,Spoiled
+PAX100609,Jakarta,Jakarta,2103.4,Motorbike,17.5,58.6,7.1,Pharmaceuticals,Good,Spoiled
+PAX100610,Jakarta,Bandung,1834.7,Refrigerated Truck,21.0,66.1,70.0,Pharmaceuticals,Good,Spoiled
+PAX100611,Jakarta,Bandung,1360.2,Van,20.1,64.9,37.8,Fresh Produce,Good,Spoiled
+PAX100612,Makassar,Medan,1480.0,Van,24.0,54.1,44.6,Fresh Produce,Average,Spoiled
+PAX100613,Bandung,Makassar,1275.8,Motorbike,13.4,50.3,17.8,Fresh Produce,Average,Less Fresh
+PAX100614,Jakarta,Jakarta,750.9,Motorbike,12.2,37.6,35.3,Pharmaceuticals,Excellent,Less Fresh
+PAX100615,Bandung,Bandung,1416.9,Van,10.0,53.5,31.5,Meat/Seafood,Average,Spoiled
+PAX100616,Medan,Jakarta,1725.3,Van,3.8,39.8,6.3,Pharmaceuticals,Excellent,Fresh
+PAX100617,Surabaya,Surabaya,2184.6,Refrigerated Truck,14.3,74.1,8.5,Pharmaceuticals,Good,Less Fresh
+PAX100618,Medan,Medan,1594.4,Motorbike,6.9,42.5,60.5,Fresh Produce,Good,Spoiled
+PAX100619,Medan,Surabaya,1905.2,Van,23.0,33.5,18.0,Pharmaceuticals,Good,Spoiled
+PAX100620,Makassar,Jakarta,408.6,Van,14.6,63.1,14.8,Frozen Food,Average,Less Fresh
+PAX100621,Surabaya,Jakarta,1159.3,Motorbike,14.8,65.7,36.8,Pharmaceuticals,Good,Spoiled
+PAX100622,Medan,Makassar,33.2,Motorbike,8.9,82.3,55.6,Pharmaceuticals,Excellent,Spoiled
+PAX100623,Medan,Bandung,624.2,Van,1.3,64.6,5.4,Pharmaceuticals,Good,Fresh
+PAX100624,Surabaya,Bandung,1818.9,Van,0.8,50.7,42.0,Pharmaceuticals,Excellent,Spoiled
+PAX100625,Surabaya,Surabaya,2479.6,Van,10.6,78.2,9.5,Meat/Seafood,Good,Less Fresh
+PAX100626,Medan,Medan,257.0,Van,2.1,62.4,3.6,Pharmaceuticals,Average,Fresh
+PAX100627,Surabaya,Bandung,1009.7,Van,15.2,34.8,4.7,Frozen Food,Average,Less Fresh
+PAX100628,Medan,Makassar,2002.2,Motorbike,22.0,64.0,60.2,Frozen Food,Excellent,Spoiled
+PAX100629,Medan,Surabaya,518.0,Van,22.1,84.5,9.4,Pharmaceuticals,Average,Spoiled
+PAX100630,Makassar,Surabaya,1392.2,Air Freight,16.5,53.8,4.2,Fresh Produce,Excellent,Less Fresh
+PAX100631,Jakarta,Makassar,1835.3,Van,5.3,47.8,32.1,Meat/Seafood,Excellent,Less Fresh
+PAX100632,Medan,Medan,1543.8,Refrigerated Truck,21.6,38.6,60.9,Pharmaceuticals,Average,Spoiled
+PAX100633,Bandung,Makassar,478.2,Van,22.2,39.1,19.6,Pharmaceuticals,Poor,Spoiled
+PAX100634,Jakarta,Medan,894.9,Refrigerated Truck,4.9,56.0,30.9,Pharmaceuticals,Good,Less Fresh
+PAX100635,Jakarta,Makassar,1961.6,Refrigerated Truck,18.4,65.7,3.8,Fresh Produce,Average,Spoiled
+PAX100636,Jakarta,Makassar,1390.0,Van,7.2,34.8,32.9,Fresh Produce,Good,Less Fresh
+PAX100637,Makassar,Jakarta,23.0,Air Freight,20.1,86.4,42.0,Fresh Produce,Good,Spoiled
+PAX100638,Medan,Surabaya,1904.9,Motorbike,24.9,75.3,41.5,Meat/Seafood,Good,Spoiled
+PAX100639,Makassar,Makassar,97.9,Motorbike,0.8,65.2,24.6,Frozen Food,Good,Less Fresh
+PAX100640,Medan,Makassar,1866.9,Refrigerated Truck,22.4,79.7,23.4,Meat/Seafood,Average,Spoiled
+PAX100641,Makassar,Bandung,514.2,Refrigerated Truck,15.6,34.8,8.6,Fresh Produce,Good,Less Fresh
+PAX100642,Makassar,Surabaya,2395.6,Motorbike,24.3,58.6,27.0,Frozen Food,Average,Spoiled
+PAX100643,Bandung,Bandung,926.2,Van,11.6,67.8,8.1,Frozen Food,Average,Less Fresh
+PAX100644,Makassar,Surabaya,824.1,Motorbike,21.2,79.7,55.4,Fresh Produce,Good,Spoiled
+PAX100645,Surabaya,Bandung,380.7,Van,1.6,77.0,69.6,Fresh Produce,Excellent,Spoiled
+PAX100646,Bandung,Makassar,771.0,Refrigerated Truck,8.4,46.6,69.9,Meat/Seafood,Average,Spoiled
+PAX100647,Makassar,Makassar,2192.9,Van,1.7,86.5,62.4,Fresh Produce,Good,Spoiled
+PAX100648,Jakarta,Jakarta,2490.9,Van,24.4,37.5,43.7,Frozen Food,Good,Spoiled
+PAX100649,Surabaya,Bandung,927.1,Van,20.4,82.5,50.8,Pharmaceuticals,Average,Spoiled
+PAX100650,Surabaya,Medan,1127.0,Motorbike,21.3,88.3,21.2,Fresh Produce,Average,Spoiled
+PAX100651,Surabaya,Jakarta,1808.0,Van,23.4,40.6,45.8,Fresh Produce,Excellent,Spoiled
+PAX100652,Bandung,Bandung,2216.6,Refrigerated Truck,2.1,73.3,33.4,Meat/Seafood,Good,Spoiled
+PAX100653,Makassar,Bandung,1486.7,Air Freight,9.6,32.4,35.2,Meat/Seafood,Good,Spoiled
+PAX100654,Makassar,Jakarta,984.9,Refrigerated Truck,1.8,54.3,54.8,Fresh Produce,Good,Spoiled
+PAX100655,Jakarta,Makassar,1037.4,Motorbike,5.3,61.0,21.0,Frozen Food,Poor,Less Fresh
+PAX100656,Jakarta,Bandung,1742.1,Refrigerated Truck,5.7,64.8,23.6,Frozen Food,Good,Less Fresh
+PAX100657,Surabaya,Makassar,18.0,Refrigerated Truck,11.7,86.2,66.6,Pharmaceuticals,Good,Spoiled
+PAX100658,Jakarta,Jakarta,1552.8,Refrigerated Truck,6.7,70.3,5.0,Fresh Produce,Good,Fresh
+PAX100659,Bandung,Makassar,895.2,Van,2.5,58.9,35.5,Meat/Seafood,Average,Less Fresh
+PAX100660,Makassar,Surabaya,1987.6,Van,4.2,78.6,65.8,Frozen Food,Poor,Spoiled
+PAX100661,Surabaya,Medan,241.5,Van,3.7,87.0,44.3,Pharmaceuticals,Average,Spoiled
+PAX100662,Jakarta,Bandung,1474.6,Motorbike,24.3,31.3,39.8,Fresh Produce,Excellent,Spoiled
+PAX100663,Bandung,Medan,1207.6,Van,19.0,89.0,18.7,Frozen Food,Good,Spoiled
+PAX100664,Bandung,Makassar,1609.4,Van,24.2,35.2,25.4,Fresh Produce,Good,Spoiled
+PAX100665,Jakarta,Bandung,171.5,Van,11.0,78.9,61.5,Fresh Produce,Poor,Spoiled
+PAX100666,Makassar,Makassar,1454.2,Refrigerated Truck,7.0,46.8,40.7,Frozen Food,Poor,Spoiled
+PAX100667,Jakarta,Surabaya,1408.1,Van,20.0,37.9,37.5,Frozen Food,Good,Spoiled
+PAX100668,Surabaya,Jakarta,1406.0,Motorbike,8.2,56.4,8.1,Frozen Food,Good,Less Fresh
+PAX100669,Jakarta,Bandung,1512.7,Air Freight,7.5,68.6,2.1,Fresh Produce,Good,Fresh
+PAX100670,Bandung,Surabaya,1694.4,Air Freight,5.8,52.9,69.4,Fresh Produce,Average,Spoiled
+PAX100671,Jakarta,Surabaya,2014.4,Refrigerated Truck,3.2,33.3,27.8,Pharmaceuticals,Good,Less Fresh
+PAX100672,Makassar,Bandung,681.9,Air Freight,6.4,66.0,43.8,Meat/Seafood,Average,Spoiled
+PAX100673,Medan,Makassar,2064.4,Van,8.9,84.1,6.7,Fresh Produce,Average,Less Fresh
+PAX100674,Jakarta,Surabaya,1250.7,Air Freight,16.8,53.0,49.5,Meat/Seafood,Good,Spoiled
+PAX100675,Makassar,Medan,201.9,Motorbike,1.6,43.0,67.2,Frozen Food,Average,Spoiled
+PAX100676,Makassar,Surabaya,155.8,Van,5.3,56.6,41.9,Fresh Produce,Average,Less Fresh
+PAX100677,Bandung,Makassar,842.3,Van,20.2,32.9,10.0,Pharmaceuticals,Good,Less Fresh
+PAX100678,Makassar,Makassar,1964.4,Motorbike,3.7,79.2,42.3,Pharmaceuticals,Good,Spoiled
+PAX100679,Makassar,Medan,1772.1,Motorbike,8.6,79.6,55.4,Meat/Seafood,Excellent,Spoiled
+PAX100680,Makassar,Surabaya,1973.7,Refrigerated Truck,21.6,65.3,29.9,Frozen Food,Good,Spoiled
+PAX100681,Makassar,Makassar,1298.0,Refrigerated Truck,3.9,51.2,63.5,Meat/Seafood,Poor,Spoiled
+PAX100682,Surabaya,Bandung,1106.1,Van,2.1,78.0,47.1,Frozen Food,Average,Spoiled
+PAX100683,Surabaya,Jakarta,377.2,Motorbike,12.1,63.3,64.8,Pharmaceuticals,Excellent,Spoiled
+PAX100684,Bandung,Jakarta,827.2,Refrigerated Truck,7.6,79.6,45.3,Meat/Seafood,Good,Spoiled
+PAX100685,Jakarta,Jakarta,1090.7,Refrigerated Truck,14.1,67.9,10.3,Pharmaceuticals,Good,Less Fresh
+PAX100686,Makassar,Surabaya,230.6,Van,20.1,77.1,23.0,Pharmaceuticals,Poor,Spoiled
+PAX100687,Jakarta,Medan,559.3,Refrigerated Truck,3.4,65.9,15.3,Frozen Food,Good,Fresh
+PAX100688,Jakarta,Makassar,1499.6,Van,14.5,54.8,65.5,Meat/Seafood,Poor,Spoiled
+PAX100689,Bandung,Bandung,1841.8,Van,12.6,87.5,55.0,Meat/Seafood,Good,Spoiled
+PAX100690,Makassar,Bandung,2495.9,Air Freight,3.6,62.5,49.0,Pharmaceuticals,Excellent,Spoiled
+PAX100691,Makassar,Surabaya,2333.5,Van,15.6,66.3,22.4,Pharmaceuticals,Excellent,Spoiled
+PAX100692,Medan,Jakarta,1610.0,Van,6.8,43.2,14.1,Frozen Food,Good,Less Fresh
+PAX100693,Jakarta,Surabaya,1058.9,Refrigerated Truck,12.2,67.5,54.7,Fresh Produce,Good,Spoiled
+PAX100694,Jakarta,Medan,1594.1,Refrigerated Truck,2.1,64.3,34.7,Fresh Produce,Excellent,Less Fresh
+PAX100695,Surabaya,Medan,1966.3,Motorbike,11.5,41.1,17.0,Pharmaceuticals,Good,Less Fresh
+PAX100696,Medan,Makassar,304.7,Motorbike,7.7,33.6,44.8,Fresh Produce,Poor,Spoiled
+PAX100697,Surabaya,Makassar,1030.7,Motorbike,20.6,66.3,3.9,Fresh Produce,Good,Less Fresh
+PAX100698,Surabaya,Medan,2101.1,Refrigerated Truck,1.4,75.8,24.2,Fresh Produce,Average,Spoiled
+PAX100699,Surabaya,Medan,965.7,Van,10.5,61.4,34.3,Fresh Produce,Good,Less Fresh
+PAX100700,Bandung,Medan,1434.0,Motorbike,11.5,43.6,11.5,Pharmaceuticals,Good,Less Fresh
+PAX100701,Bandung,Surabaya,1473.5,Air Freight,18.1,70.0,70.9,Fresh Produce,Good,Spoiled
+PAX100702,Surabaya,Medan,469.3,Van,14.4,34.8,15.8,Fresh Produce,Average,Less Fresh
+PAX100703,Medan,Bandung,912.0,Van,16.7,56.5,10.3,Frozen Food,Average,Less Fresh
+PAX100704,Jakarta,Jakarta,842.9,Van,19.4,39.8,15.5,Pharmaceuticals,Good,Less Fresh
+PAX100705,Medan,Medan,75.2,Refrigerated Truck,21.6,41.1,55.6,Meat/Seafood,Excellent,Spoiled
+PAX100706,Makassar,Jakarta,70.2,Motorbike,7.8,42.1,31.2,Meat/Seafood,Good,Less Fresh
+PAX100707,Bandung,Surabaya,2080.9,Van,13.5,53.2,41.1,Frozen Food,Average,Spoiled
+PAX100708,Jakarta,Jakarta,689.9,Refrigerated Truck,21.0,33.1,2.5,Frozen Food,Excellent,Less Fresh
+PAX100709,Jakarta,Surabaya,1300.0,Van,24.7,53.9,3.4,Pharmaceuticals,Excellent,Less Fresh
+PAX100710,Makassar,Bandung,753.8,Van,22.2,60.7,32.7,Meat/Seafood,Average,Spoiled
+PAX100711,Makassar,Surabaya,2352.3,Van,9.3,59.0,59.0,Fresh Produce,Poor,Spoiled
+PAX100712,Surabaya,Surabaya,655.6,Motorbike,4.9,53.0,63.9,Frozen Food,Good,Spoiled
+PAX100713,Bandung,Makassar,1079.8,Motorbike,12.2,80.3,7.2,Meat/Seafood,Excellent,Less Fresh
+PAX100714,Bandung,Medan,2183.1,Van,18.5,38.7,39.2,Pharmaceuticals,Excellent,Spoiled
+PAX100715,Medan,Medan,2106.4,Van,12.3,60.3,65.8,Fresh Produce,Excellent,Spoiled
+PAX100716,Surabaya,Bandung,473.4,Motorbike,12.1,33.7,28.5,Pharmaceuticals,Good,Less Fresh
+PAX100717,Surabaya,Bandung,2008.6,Refrigerated Truck,21.0,34.3,59.9,Frozen Food,Good,Spoiled
+PAX100718,Surabaya,Medan,1150.9,Air Freight,9.0,64.4,10.5,Meat/Seafood,Poor,Less Fresh
+PAX100719,Surabaya,Makassar,1212.6,Refrigerated Truck,21.5,64.0,67.4,Meat/Seafood,Average,Spoiled
+PAX100720,Bandung,Medan,342.4,Refrigerated Truck,10.2,82.7,54.4,Meat/Seafood,Good,Spoiled
+PAX100721,Bandung,Makassar,210.7,Van,8.2,63.5,67.8,Meat/Seafood,Good,Spoiled
+PAX100722,Surabaya,Bandung,1822.6,Air Freight,11.3,87.6,49.0,Fresh Produce,Good,Spoiled
+PAX100723,Medan,Jakarta,1246.2,Motorbike,19.1,32.9,26.8,Fresh Produce,Good,Spoiled
+PAX100724,Jakarta,Bandung,1097.8,Air Freight,3.2,35.9,67.6,Pharmaceuticals,Average,Spoiled
+PAX100725,Jakarta,Bandung,1826.5,Air Freight,4.9,32.6,20.6,Fresh Produce,Good,Less Fresh
+PAX100726,Medan,Surabaya,1916.1,Refrigerated Truck,23.8,41.1,24.6,Frozen Food,Poor,Spoiled
+PAX100727,Surabaya,Surabaya,405.7,Air Freight,4.4,62.5,50.8,Frozen Food,Good,Less Fresh
+PAX100728,Bandung,Surabaya,1529.5,Van,14.2,68.7,55.3,Meat/Seafood,Good,Spoiled
+PAX100729,Jakarta,Surabaya,347.0,Van,14.5,32.7,67.0,Frozen Food,Good,Spoiled
+PAX100730,Makassar,Makassar,1880.9,Van,12.2,86.8,15.5,Pharmaceuticals,Excellent,Less Fresh
+PAX100731,Makassar,Medan,1645.8,Van,16.1,80.5,57.7,Fresh Produce,Average,Spoiled
+PAX100732,Medan,Jakarta,2392.0,Motorbike,5.7,47.8,53.4,Fresh Produce,Good,Spoiled
+PAX100733,Surabaya,Bandung,181.7,Refrigerated Truck,13.8,34.6,5.5,Fresh Produce,Average,Less Fresh
+PAX100734,Jakarta,Makassar,152.1,Air Freight,9.3,40.2,28.5,Frozen Food,Good,Less Fresh
+PAX100735,Surabaya,Jakarta,712.6,Motorbike,16.5,37.6,21.1,Fresh Produce,Excellent,Less Fresh
+PAX100736,Jakarta,Makassar,661.6,Refrigerated Truck,3.5,37.4,22.6,Meat/Seafood,Good,Less Fresh
+PAX100737,Medan,Makassar,625.0,Air Freight,14.3,61.1,70.8,Meat/Seafood,Excellent,Spoiled
+PAX100738,Medan,Bandung,2266.6,Air Freight,4.6,44.8,46.6,Meat/Seafood,Average,Spoiled
+PAX100739,Makassar,Medan,631.4,Air Freight,7.0,51.5,52.0,Frozen Food,Excellent,Less Fresh
+PAX100740,Surabaya,Surabaya,687.2,Van,5.5,89.4,70.3,Fresh Produce,Poor,Spoiled
+PAX100741,Makassar,Medan,1900.9,Air Freight,4.6,71.1,27.8,Frozen Food,Excellent,Less Fresh
+PAX100742,Surabaya,Bandung,1129.9,Refrigerated Truck,20.6,86.9,57.9,Fresh Produce,Average,Spoiled
+PAX100743,Makassar,Bandung,1944.0,Motorbike,7.1,38.6,31.9,Pharmaceuticals,Average,Spoiled
+PAX100744,Bandung,Bandung,172.8,Van,23.2,52.9,62.7,Pharmaceuticals,Good,Spoiled
+PAX100745,Bandung,Jakarta,1224.1,Refrigerated Truck,24.2,63.3,13.8,Frozen Food,Excellent,Spoiled
+PAX100746,Bandung,Medan,93.7,Van,14.3,34.6,68.3,Meat/Seafood,Poor,Spoiled
+PAX100747,Bandung,Medan,166.0,Refrigerated Truck,3.6,30.3,16.5,Frozen Food,Average,Fresh
+PAX100748,Jakarta,Makassar,2267.0,Refrigerated Truck,9.4,70.2,24.2,Meat/Seafood,Excellent,Less Fresh
+PAX100749,Bandung,Makassar,356.7,Motorbike,19.9,68.5,54.7,Fresh Produce,Average,Spoiled
+PAX100750,Medan,Makassar,1335.7,Van,9.2,54.6,29.0,Meat/Seafood,Average,Less Fresh
+PAX100751,Medan,Bandung,1033.6,Refrigerated Truck,2.2,59.4,44.2,Meat/Seafood,Good,Spoiled
+PAX100752,Jakarta,Medan,874.9,Van,13.9,54.9,32.6,Fresh Produce,Average,Spoiled
+PAX100753,Bandung,Bandung,2250.6,Motorbike,21.1,31.4,53.7,Pharmaceuticals,Excellent,Spoiled
+PAX100754,Bandung,Jakarta,64.3,Motorbike,19.9,50.1,17.2,Fresh Produce,Good,Less Fresh
+PAX100755,Bandung,Makassar,1662.8,Van,4.4,40.6,5.2,Frozen Food,Good,Less Fresh
+PAX100756,Makassar,Bandung,2408.9,Air Freight,16.8,35.9,22.3,Frozen Food,Excellent,Spoiled
+PAX100757,Surabaya,Bandung,1404.8,Van,5.5,87.4,34.7,Frozen Food,Good,Spoiled
+PAX100758,Makassar,Jakarta,2342.7,Refrigerated Truck,5.5,66.0,12.9,Frozen Food,Poor,Spoiled
+PAX100759,Surabaya,Surabaya,140.1,Van,21.9,73.7,26.2,Frozen Food,Average,Spoiled
+PAX100760,Bandung,Medan,1052.8,Van,6.2,48.9,29.4,Pharmaceuticals,Good,Less Fresh
+PAX100761,Bandung,Surabaya,657.8,Refrigerated Truck,6.6,53.6,5.1,Pharmaceuticals,Average,Fresh
+PAX100762,Makassar,Makassar,1829.7,Refrigerated Truck,0.0,44.2,42.4,Meat/Seafood,Excellent,Spoiled
+PAX100763,Makassar,Bandung,2453.4,Motorbike,21.8,35.8,63.8,Frozen Food,Good,Spoiled
+PAX100764,Surabaya,Jakarta,648.8,Van,19.8,40.7,11.8,Fresh Produce,Average,Less Fresh
+PAX100765,Medan,Jakarta,1638.9,Motorbike,15.7,77.9,43.4,Frozen Food,Good,Spoiled
+PAX100766,Surabaya,Medan,503.3,Van,18.8,70.7,48.2,Pharmaceuticals,Good,Spoiled
+PAX100767,Makassar,Surabaya,1417.7,Refrigerated Truck,3.8,62.8,30.8,Frozen Food,Excellent,Less Fresh
+PAX100768,Makassar,Medan,1165.2,Motorbike,11.5,58.5,50.8,Pharmaceuticals,Excellent,Spoiled
+PAX100769,Jakarta,Bandung,2430.3,Van,8.8,85.3,30.2,Meat/Seafood,Good,Spoiled
+PAX100770,Makassar,Medan,1525.2,Van,2.3,34.4,36.8,Meat/Seafood,Good,Less Fresh
+PAX100771,Jakarta,Jakarta,880.3,Air Freight,12.2,46.8,1.5,Meat/Seafood,Good,Fresh
+PAX100772,Medan,Jakarta,294.1,Air Freight,23.0,51.0,50.1,Pharmaceuticals,Good,Spoiled
+PAX100773,Surabaya,Makassar,386.6,Motorbike,1.0,76.9,48.0,Frozen Food,Average,Spoiled
+PAX100774,Surabaya,Makassar,571.0,Refrigerated Truck,7.3,89.6,3.7,Frozen Food,Average,Less Fresh
+PAX100775,Jakarta,Bandung,634.9,Van,5.2,44.4,27.1,Fresh Produce,Good,Less Fresh
+PAX100776,Surabaya,Surabaya,2128.0,Van,6.0,82.5,70.5,Pharmaceuticals,Average,Spoiled
+PAX100777,Makassar,Medan,1407.4,Refrigerated Truck,22.7,79.8,30.9,Fresh Produce,Poor,Spoiled
+PAX100778,Bandung,Bandung,1313.2,Air Freight,11.7,43.5,36.6,Meat/Seafood,Good,Spoiled
+PAX100779,Jakarta,Makassar,295.8,Air Freight,11.7,54.0,65.6,Frozen Food,Poor,Spoiled
+PAX100780,Surabaya,Medan,2151.7,Van,19.0,54.6,51.9,Pharmaceuticals,Good,Spoiled
+PAX100781,Jakarta,Makassar,1809.8,Van,3.9,88.7,42.3,Fresh Produce,Good,Spoiled
+PAX100782,Jakarta,Medan,178.5,Refrigerated Truck,12.2,40.9,57.6,Fresh Produce,Excellent,Spoiled
+PAX100783,Bandung,Surabaya,1772.5,Van,10.7,77.9,62.4,Fresh Produce,Good,Spoiled
+PAX100784,Makassar,Bandung,1363.4,Van,14.9,50.1,33.4,Frozen Food,Poor,Spoiled
+PAX100785,Jakarta,Medan,213.5,Van,25.0,73.9,34.7,Frozen Food,Good,Spoiled
+PAX100786,Surabaya,Jakarta,1151.2,Refrigerated Truck,19.2,55.2,28.4,Frozen Food,Excellent,Spoiled
+PAX100787,Medan,Jakarta,1216.9,Van,9.9,64.7,69.6,Pharmaceuticals,Excellent,Spoiled
+PAX100788,Jakarta,Medan,422.8,Motorbike,20.7,80.0,50.5,Frozen Food,Good,Spoiled
+PAX100789,Jakarta,Medan,2364.8,Air Freight,4.3,78.2,6.9,Pharmaceuticals,Average,Less Fresh
+PAX100790,Bandung,Medan,2126.4,Motorbike,0.8,82.0,62.3,Fresh Produce,Excellent,Spoiled
+PAX100791,Makassar,Jakarta,1675.9,Van,5.1,33.6,35.1,Fresh Produce,Average,Spoiled
+PAX100792,Medan,Jakarta,1161.1,Van,8.5,71.5,5.9,Meat/Seafood,Good,Fresh
+PAX100793,Surabaya,Medan,1035.3,Motorbike,12.8,38.4,40.0,Frozen Food,Good,Spoiled
+PAX100794,Medan,Makassar,1630.9,Motorbike,15.4,54.9,30.6,Fresh Produce,Poor,Spoiled
+PAX100795,Surabaya,Makassar,1368.1,Motorbike,22.8,62.9,63.3,Frozen Food,Average,Spoiled
+PAX100796,Makassar,Surabaya,165.1,Refrigerated Truck,12.7,54.2,15.5,Pharmaceuticals,Average,Less Fresh
+PAX100797,Surabaya,Bandung,1286.1,Van,12.5,61.2,59.7,Fresh Produce,Good,Spoiled
+PAX100798,Bandung,Makassar,2017.9,Air Freight,1.3,89.8,40.6,Frozen Food,Excellent,Spoiled
+PAX100799,Bandung,Jakarta,1153.5,Van,0.9,38.1,4.9,Fresh Produce,Average,Less Fresh
